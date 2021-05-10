@@ -1,0 +1,29 @@
+<a href="file:///storyline/storyScarsOfVelious.txt">----Click here to go back to Scars of Velious Main Page----</a><br>
+<a href="file:///storyline/Contamination/ScarsOfVelious/RaidOverview.txt">----Click here to go back to SoV Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+<br>
+
+<a href="file:///storyline/storyScarsOfVelious.txt">----Click here to go back to Scars of Velious Main Page----</a><br>
+<a href="file:///storyline/Contamination/ScarsOfVelious/RaidOverview.txt">----Click here to go back to SoV Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+<br>
+
+<c "#ff0000">  < > < > Zlandicar < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 540 (405)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: yes<br>
+Flurry: -<br>
+Resists Needed: Magic<br>
+AE Type: Fear + DD/Dispel<br>
+Baneable: -<br>
+CH Delay: Fast Heal<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>

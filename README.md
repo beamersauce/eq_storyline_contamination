@@ -2,7 +2,7 @@
 
 ## To Use
 
-1. Copy all files into <everquest_dir>/storyline/
+1. Copy all files into <everquest_dir>/Storyline/
 2. Reload Everquest
 3. Open Storyline window (alt-n by default)
 
