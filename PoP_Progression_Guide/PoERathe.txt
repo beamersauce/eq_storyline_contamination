@@ -1,0 +1,50 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Earth</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoE_Overview.html">---- Plane of Earth: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoE_Events.html">---- Plane of Earth: Events ----</a><br>
+<a href="https://www.eqprogression.com/plane-of-earth-trap-guide/">---- Plane of Earth Traps Guide (EQP) ----</a><br>
+<a href="https://www.eqprogression.com/the-rathe-council-earth-b/">---- The Rathe Council Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoEa.txt">Plane of Earth A</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoEb.txt">Plane of Earth B</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoE.txt">Return to Plane of Earth Main Page</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: 12x A Rathe Councilman<br>
+Level: 68<br>
+HP: 300,000<br>
+Max Hit: 2800+ at full HP, but goes down with hp %.<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Buff Magic resist.<br>
+Six councilmen are mezzable, six are rootable (not mezzable).  The idea (and hardest part of the encounter) is to tank one at a time and lower their hp to 5-10% so they become weak, then CC them by mezzing or rooting.<br>
+They have a respawn timer of 7 minutes, and must all be dead for the Avatar of Earth to spawn.  Eventually, when you are ready, burn them all down within 7 minutes (some say within 3 mins).<br>
+Classes with roots that don't break early, like Paladins, are clutch here.  2-3 Paladins should be able to keep all six rooted.  Having a bard in group for magic resist will help.<br>
+The councilmen also need to be kept separate because they have a nasty PBAE.  Keep priests nearby for RGC and heals.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Earthen Vengance (-400 Magic): Range 100 PBAE 1000 damage, 200/tick DoT, 20% slow.  Lasts 2 minutes.  4 curse counters.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Avatar of Earth<br>
+Level: 80<br>
+HP: 500,000<br>
+Max Hit: 2400+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable?<br>
+Buff magic resist.<br>
+Spawns once the 12 councilmen have been killed within a few minutes of each other.<br>
+Once dead, hail Essence of Earth for your flag (Mound of Living Stone).<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Ashen Form (-350 Magic): Single target decrease aggro modifier 95%, lasts 5 minutes.<br>
+Marl (-350 Magic): Range 300 PBAE 100/tick DoT, last 3 hours, increases spell cost for detrimental spells, casts once per fight, 36 curse counters.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoERathe.txt">Back to top</a><br>

@@ -1,0 +1,24 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 1 - <c "#ffffff">Plane of Justice</c> < > < > < > < > < > </c><br>
+
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoJ_Overview.html">---- Plane of Justice: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoJ_Events.html">---- Plane of Justice: Events ----</a><br>
+<a href="https://almarsguides.com/eq/quests/PoP/PlanarProgression/PlaneofJustice/PoJTrials/">---- Plane of Justice Trials (Almar's) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T1.txt">---- Story Window T1 Flagging Page ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: The Seventh Hammer<br>
+Level: 73<br>
+Max hit: 1,200+<br>
+HP: 1,000,000<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE Ramp, Slowable<br>
+Buff magic resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Tremor of Judgment (-300 Magic): 180 range, PBAE 800 damage.<br>
+Verdict of Eternity (Unresistable): 150 range, PBAE 100/tick mana drain and 200/tick HoT.  Lasts 1.8 minutes, 9 curse counters.<br>
+Justice: (Unresistable): -10 reverse damage shield, 800 damage nuke, splurt type DoT, -11 to -635/tick.  Lasts 5 minutes.<br>
+<br>

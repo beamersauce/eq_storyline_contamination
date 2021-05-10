@@ -1,0 +1,90 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 5 - <c "#ffffff">Plane of Time</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://everquest.allakhazam.com/db/zones.html?zstrat=178">---- Plane of Time B: Allakhazam (Click the Phase links at the top)----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime.txt">Return to Plane of Time Main Page</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime2.txt">Plane of Time: Phase 2 </a>(3 elemental events: Earth + Air, Water + Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime3.txt">Plane of Time: Phase 3 </a>(8 waves of trash and named, two rock bosses)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime4.txt">Plane of Time: Phase 4 </a>(Saryrn, Terris Thule, Tallon Zek, Vallon Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime5.txt">Plane of Time: Phase 5 </a>(Trash, Bertoxxulous, Innoruuk, Cazic Thule, Rallos Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime6.txt">Plane of Time: Phase 6 </a>(Quarm)<br>
+<br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTime_1.html">---- Time Phase 1 Bosses: Rasper's ----</a><br>
+<a href="https://everquest.allakhazam.com/db/quest.html?quest=4553">---- Time Phase 1 Bosses: Allakhazam ----</a><br>
+<br>
+You have one hour for phase 1.  The raid should split into three.  Each trial can have a max of 18 people in it, for a total of 54 at once.  Either you split your raid into five groups or two goups will each do two trials in phase 1.<br>
+There are five trials to complete.  Usually the Undead group will stay and continue on to phase 2, while Fire and Water merge in phase 2 and Earth and Air merge in phase 2.<br>
+It is IMPERATIVE people use assist in the trials.  All adds will be mezzed, rooted, or offtanked as mobs are killed one by one.<br>
+Each trial involves killing adds one by one until the boss pops.  When the trial is done, you either wait or go back to zone in to do another trial if needed (or help other ongoing trials).<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Terlok of Earth<br>
+Level: 68<br>
+HP: 250,000<br>
+Max Hit: 1000+ <br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.  Does not need resists.<br>
+The event starts with 3x a pile of living rubble that needs to be offtanked (immune to mez).  They hit for around 1k.  When each dies they spawn 1-4 mezzable/rootable a rock shaped assassin which hit for 800.<br>
+When a total of 10 mobs are killed Terlok of Earth will spawn.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Neimon of Air<br>
+Level: 68<br>
+HP: 200,000<br>
+Max Hit: 1000+ <br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Resistant to magic, slowable.<br>
+Buff poison resist.<br>
+When you zone in 4 bird nobles will spawn.  Two are mezzable.  Mez two, offtank the other two.  As each bird dies, an untargetable bird spawns by the clock.  When the fourth bird is nearing death, two offtanks and the named tank should get into position.<br>
+The two inner servitor birds can be mezzed, while the outer two will need to be offtanked (possible root?).<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Caustic Atmosphere (-150 Poison): Range 150 PBAE 550 damage, 25% slow, 25% spell slow, lasts 2 minutes.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Rythor of the Undead<br>
+Level: 68<br>
+HP: 250,000<br>
+Max Hit: 1000+ <br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Some resistant to magic, slowable.<br>
+Buff cold resist.<br>
+Paladins are great for this trial because of Slay Undead AA and fast roots.<br>
+Not sure which waves are mezzable/rootable, but some definiately are: 3x an undead guardian will spawn when you enter.  When those die, another (harder) set of four spawn, and after that an even harder set of four.<br>
+When the third wave dies, Rythor becomes targetable along with 2x an undead protector.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Insidious Calamity (Cold): Range 150 PBAE 575 damage, 350/tick DoT, lasts 3 ticks.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Anar of Water<br>
+Level: 68<br>
+HP: 265,000<br>
+Max Hit: 1100+ <br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Resistant to cold and disease, slow immune.<br>
+Buff cold resist.<br>
+The event starts 15 seconds in, with the boss and two unmezzable adds spawning.  When the adds are down, dps the boss to 90%, where two additional adds will spawn, one mezzable and one unmezzable.  Repeat at 45%, then kill boss.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Aqueous Flux (Cold): Range 150 PBAE 850 damage, 70% snare, 40% slow, lasts 4 ticks.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Kazrok of Fire<br>
+Level: 68<br>
+HP: 240,000<br>
+Max Hit: 1100+ <br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Equal resists, slowable, has dispelable damage shield.<br>
+Buff magic and fire resist.<br>
+Three adds spawn.  When each dies, they spawn 2 others, one mezzable and one unmezzable.  Once all three sets are finished, wave 2 begins with Kazrok becoming targetable.<br>
+Dispel and slow Kazrok.  He spawns adds at 75%, 50%, and 25%.  Flame Mephits can be mezzed, but Inferno Mephits: cannot be mezzed and should be killed.  Can OT 25% adds until named dead.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Black Winds (-100 Magic): Range 60 targeted AE 1500 damage.<br>
+Black Pyre (-150 Fire): Range 150 PBAE 225/tick DoT, 50% spell slow.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime1.txt">Back to top</a><br>

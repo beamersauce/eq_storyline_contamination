@@ -1,0 +1,28 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 2 - <c "#ffffff">Plane of Valor</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoV_Overview.html">---- Plane of Valor: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoV_Events.html">---- Plane of Valor: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10348">---- Aerin`Dar: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/aerindar-raid-guide/">---- Plane of Valor Raid Guide (EQP) ----</a><br>
+<a href="https://almarsguides.com/eq/quests/PoP/PlanarProgression/PlaneofValor/KeytoAerinDarsLair/">---- Key to Aerin`Dar's Lair Quest ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T2.txt">---- Story Window T2 Flagging Page ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Aerin`Dar<br>
+Level: 70<br>
+HP: 300,000<br>
+Max Hit: 1600+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable.<br>
+Buff magic resist.<br>
+Spawns numerous A Mindless Minion (mezzable, snareable, and rootable) and one Rahlgon (snareable) during the fight.<br>
+Recommend knight tank due to being immune to fear.<br>
+Paladins and other root classes should be able to easily lock down all the adds (or kill them).  Offtank named when it spawns and burn boss.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Shards of Glass (-50 Magic): Single target 375 DD.<br>
+Glass Shards (-150 Magic): Single target 3000 damage and 45% slow.<br>
+Glass Roar (-150 Magic): Range 200 PBAE 500/tick DoT, 700 damage DD, fear.
+<br>

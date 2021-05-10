@@ -1,0 +1,71 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 3 - <c "#ffffff">Drunder, Fortress of Zek (Plane of Tactics)</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTact_Overview.html">---- Plane of Tactics: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTact_Events.html">---- Plane of Tactics: Events ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T3.txt">---- Story Window T3 Flagging Page ----</a><br>
+
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Tallon Zek<br>
+Level: 73<br>
+HP: 550,000<br>
+Max Hit: 1000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10357">---- Tallon Zek: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/tallonzek/">---- Tallon Zek Raid Guide (EQP) ----</a><br>
+Slowable (?).<br>
+Need all resists (450+).<br>
+Weak vs all spells.<br>
+Safe strategy is to make this a ranged only fight to avoid AEs (aside from tank).<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Avatar of Power (Unresistable): Range 60 PBAE 100 damage, dispel (use a clicky).<br>
+Tallon's Balance (Unresistable): Range 300 PBAE Decrease all resists by 300.<br>
+War Arrows (-100 Magic): Range 30 PBAE 500 DD.<br>
+Barb of Tallon (-100 Poison): Single target 1750-3500 damage.<br>
+Barb of Tallon (-100 Cold): Range 30 Targeted AE 1250-2750 damage, 40% slow, snare.<br>
+Barb of Tallon (-100 Disease): Range 30 targeted AE 60% aggro dump, 300/tick DoT, -150 AC.<br>
+Barb of Tallon (-100 Fire): Range 50 AE 1500-3000 damage.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Vallon Zek<br>
+Level: 75<br>
+HP: 230,000<br>
+Max Hit: 1000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10358">---- Vallon Zek: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/vallonzek/">---- Vallon Zek Raid Guide (EQP) ----</a><br>
+Slowable.<br>
+No resists needed.<br>
+/target Vallon_Zek00 will let you target the real Vallon Zek when he splits.<br>
+Vallon Zek splits into five versions of himself once he hits a certain %.  One is real.  When you kill one he splits again into another five. Repeat 3-4 times.<br>
+1. You can kite or offtank adds and chain kill the real Vallon.  This creates a lot of adds that need to be finished off at the end.<br>
+2. You can kill all the fake Vallons first and then kill the real Vallon to force another split.  Slightly slower but more controlled.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Vallon's Subversion (Unresistable): Single target 60% aggro dump.<br>
+Vallon's Precision (Unresistable): Range 75 PBAE 40% Increased aggro, 100/tick DoT, -60 AC).<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10359">---- Rallos Zek the Warlord: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/ralloszektactics/">---- RZtW Raid Guide (EQP) ----</a><br>
+Name: Rallos Zek the Warlord<br>
+Level: 75<br>
+HP: 1,000,000<br>
+Max Hit: 1600+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+To spawn RZtW, kill Decorin Berik and Decorin Grunhork within six minutes of each other.<br>
+Tallon Zek and Vallon Zek spawn in the north and south halls and start roaming.  They must be killed within 20 minutes of each other.<br>
+Engage fake Rallos Zek.  He AE ramps and may spawn adds in the hallway.  He will despawn at around 50% and his real version will spawn in the arena below.<br>
+The real RZtW despawns if not engaged after 17 minutes.<br>
+Rallos hits hard and is a DPS check fight.  Adds spawn every 54 seconds (only two adds to start) and need to be handled (kited by Rangers/SKs, etc) while the raid burns down Rallos Zek.  Max range melee DPS.<br>
+AE ramp, slowable.<br>
+Buff fire resist.<br>
+Weak vs. Fire, Disease, & Poison.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Sedition (Unresistable): Single target -450AC, lasts 10 minutes, 18 curse counters.<br>
+Rage of Zek (-100 Fire): Range 200 PBAE 400/tick DoT, 50/tick mana drain.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTactics.txt">Back to top</a><br>

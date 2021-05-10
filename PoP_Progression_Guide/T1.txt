@@ -1,0 +1,56 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt"><c "#0080ff">----Click here to go back to PoP Main Page----</c></a><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt"><c "#0080ff">----Click here to go back to PoP Flagging Page----</c></a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > PoP Progression External Website Links  < > < > < > < > < > </c><br>
+<a href="https://everquest.allakhazam.com/wiki/EQ:The_Planes_of_Power">Allakhazam</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/miscProgression.html">Raspers</a><br>
+<a href="https://everquest.fanra.info/wiki/The_Planes_of_Power_flagging_guide">Fanra</a><br>
+<a href="http://www.bonzz.com/planprog.htm">Bonzz</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+This guide will follow this Google Sheets Flagging Guide: <a href="https://docs.google.com/spreadsheets/d/1-mTY2n2DHUaJr2xMLmewtLmNgsFRYJwZpcXfQPt4emw/edit#gid=67583792>PoP Flag Checklist</a><br>
+If you have not yet, make a copy of this sheet by going to <c "#ff0000">File > Make a copy.</c><br>
+<c "#ff7700">It's a good idea to always hail everything and go through all NPC text, using the NPC provided word links.</c><br>
+<br>
+Guide Format:<br>
+<c "#00ff44">Green steps are NPC dialogue or zoning related,</c><br>
+<c "#ff3b3b">Red steps are boss kills/fights.</c><br>
+<c "#c073ff">Purple steps are not "required" flags. Only enough people need to do these to keep your raid moving forward.</c><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/KeyNPCs.txt">---- Key NPCs ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Figurine.txt">---- Intricate Wooden Figurine (Charm) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt">---- Tier 1 ----</a><br>
+<c "#0080ff">Plane of Disease</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=163> - <a href="file:///storyline/PoP_Progression_Guide/PoD.txt> PoD Story Window Boss Guide</a> - Zone Page</a><a href="https://www.raspersrealm.com/Everquest/PoP/PoD_Events.html> - PoD Events Page</a><br>
+<c "#00ff44">[_] Hail and say "what ward" to Adler Fuirstel in Plane of Tranquility outside Plane of Disease.</c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Grummus and hail A Planar Projection. </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#00ff44">[_] Jump into the pit that leads into Crypt of Decay from Plane of Disease.</c><br>
+<br>
+<c "#0080ff">Plane of Justice</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=162> - <a href="file:///storyline/PoP_Progression_Guide/PoJ.txt> PoJ Story Window Boss Guide</a> - Zone Page</a> <a href="https://almarsguides.com/eq/quests/PoP/PlanarProgression/PlaneofJustice/PoJTrials/> - PoJ Trials (Almar)</a><a href="https://www.raspersrealm.com/Everquest/PoP/PoJ_Events.html> - PoJ Trials (Rasper's)</a><br>
+<c "#00ff44">[_] Speak to Mavuin in Plane of Justice.  Say "what information" to receive flag.</c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Complete 1 of the 6 trials in Plane of Justice.  Loot Mark of XXX from trial boss (Trial of Execution is easiest).</c><br>
+<c "#00ff44">[_] Say "Mavuin sent me" or "I have come to plead the case of Mavuin" to the "The Tribunal" who gave you your trial. </c><c "#fbff00">(You've received a character flag!)</c><br>
+<c "#00ff44">[_] Say "Mavuin and hail him to receive a flag. </c><c "#fbff00">(You've received a character flag!)</c><br>
+<br>
+<c "#0080ff">Plane of Innovation</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=160> - <a href="file:///storyline/PoP_Progression_Guide/PoI.txt> PoI Story Window Boss Guide</a> - Zone Page</a> <a href="https://www.raspersrealm.com/Everquest/PoP/PoI_Events.html> - PoI Events Page</a> <br>
+<c "#c073ff">[_] Optional - Kill Xanamech Nezmirthafen to get factory door key.  At least one person will need this. </c><br>
+<c "#00ff44">[_] Say "I will test the machine" to Giwin Mirakon inside the factory door.  </c><c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Manaetic Bahemoth and hail Giwin Mirakon (he spawns near boss room) to receive character flag. </c><c "#fbff00">(You've received a character flag!)</c><br>
+<br>
+<c "#0080ff">Plane of Nightmare</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=161> - <a href="file:///storyline/PoP_Progression_Guide/PoN.txt> PoN Story Window Boss Guide</a> - Zone Page</a> - <a href="https://www.raspersrealm.com/Everquest/PoP/PoN_Events.html> PoN Events Page - </a><a href="https://almarsguides.com/eq/quests/PoP/PlanarProgression/PlaneofNightmare/HedgeEvent/"> Hedge Event (Almar's) </a>  <br>
+<c "#00ff44">[_] Hail Elder Poxbourne and then go to Adroha Jezith in Plane of Tranquility in the Sick Bay and say "tortured by nightmares." </c><c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Complete the Hedge Maze in Plane of Nightmare.  Hail Thelin Poxbourne at the end of the event to zone out. </c><c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Terris Thule in Plane of Nightmare B and hail A Planar Projection. </c><c "#fbff00">(You've received a character flag!)</c><br>
+<c "#00ff44">[_] Go back to Plane of Tranquility and hail both Elder Poxbourne and Adroha Jezith again. </c><c "#fbff00">(You've received a character flag!)</c><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T2.txt">---- Tier 2 ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T3.txt">---- Tier 3 ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Tier 4 (Elemental Planes) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T5.txt">---- Tier 5 (Plane of Time) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+<br>

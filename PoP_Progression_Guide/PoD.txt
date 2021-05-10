@@ -1,0 +1,25 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 1 - <c "#ffffff">Plane of Disease</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoD_Overview.html">---- Plane of Disease: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoD_Events.html">---- Plane of Disease: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10244">---- Grummus: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/grummus-raid-guide/">---- Plane of Disease Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T1.txt">---- Story Window T1 Flagging Page ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Grummus<br>
+Level: 70<br>
+HP: 500,000<br>
+Max Hit: 1500+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable, undead, leashed to room.<br>
+No obvious spell resists.<br>
+Buff disease resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Decay of the Plague Bringer (-300 Disease): Single target 300hp/tick DoT and 60% slow.<br>
+Stench of Decay (-300 Disease): Range 100 PBAE 200hp/tick DoT.<br>
+Plasma Decay (-1000 Disease): Range 100 PBAE Splurt type DoT 11-635hp/tick. Lasts 5 minutes. 9 curse counters.<br>
+<br>

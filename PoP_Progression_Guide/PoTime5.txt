@@ -1,0 +1,85 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 5 - <c "#ffffff">Plane of Time</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://everquest.allakhazam.com/db/zones.html?zstrat=178">---- Plane of Time B: Allakhazam (Click the Phase links at the top)----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime1.txt">Plane of Time: Phase 1 </a>(5 elemental events: Earth, Air, Water, Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime2.txt">Plane of Time: Phase 2 </a>(3 elemental events: Earth + Air, Water + Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime3.txt">Plane of Time: Phase 3 </a>(8 waves of trash and named, two rock bosses)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime4.txt">Plane of Time: Phase 4 </a>(Saryrn, Terris Thule, Tallon Zek, Vallon Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime.txt">Return to Plane of Time Main Page</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime6.txt">Plane of Time: Phase 6 </a>(Quarm)<br>
+<br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTime_5.html">---- Time Phase 5 Bosses: Rasper's ----</a><br>
+<br>
+When you enter phase 5 you will need to clear adds.  Pull them in one group at a time and DPS/AE.  Jboots aggro strat does not work anymore.<br>
+
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4560">Cazic Thule</a><br>
+Level: 75<br>
+HP: 1,600,000<br>
+Max Hit: 2800+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target rampage, unslowable?<br>
+Buff magic and poison resist.<br>
+Use knight tank to avoid tank being feared.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Timeless Panic (-350 Magic): Range 100 PBAE 1000 damage, fear.<br>
+Aura of Fear (-150 Poison): Range 300 PBAE 2000 damage, 550/tick DoT, .5 sec stun.<br>
+Call of the Faceless(-150 Poison): Range 375 PBAE 200/tick DoT, 40% snare, silence<br>
+Snare yourself or pass around fungi sticks <a href="https://everquest.allakhazam.com/db/item.html?item=27381">(Fungus Covered Great Staff)</a> to block the silence.<br>
+Usually we pull this into zone in room.<br>
+<br>
+Name: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4561">Bertoxxulous</a><br>
+Level: 75<br>
+HP: 1,600,000<br>
+Max Hit: 2800+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target rampage, unslowable? (at least at first).<br>
+Buff poison and disease resist.<br>
+Starts off immune to spells.  As HP decreases he becomes less resistant to spells and gains melee strength (emoted).<br>
+Usually pull Bert into zone in room like CT.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Black Plague (-300 Disease): Range 300 PBAE 700/tick DoT, 80% snare, 18 disease counters.<br>
+Rain of Bile (-300 Poison): Range 300 Target rain AE (3x hit) 975 damage, 275 damage drain.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4563">Innoruuk</a><br>
+Level: 75<br>
+HP: 1,600,000 (possibly less)<br>
+Max Hit: 3300+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, unslowable?<br>
+Buff fire and magic resist.<br>
+Use knight tank to avoid tank being feared.  Tank in left corner.<br>
+Spawns adds at around 75% and 25% (could be wrong on %).  Fearless Paladins should root in opposite corner (right).  Paladins should use use Divine Stun to push them to corner so they don't whack feared raiders as they run out of the room.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Barrier of Hatred (Self-buff): 225 damage shield, +135 AC, +175 ATK, 1800 rune.  Dispel this!<br>
+Seething Hatred (-200 Fire): Range 100 PBAE 550/tick DoT, fear, decrease aggro multiplier 57%.<br>
+Seething Hatred (-450 Magic): Range 80 PBAE 325 damage, decrease aggro multiplier 40%.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4562">Rallos Zek</a><br>
+Level: 75<br>
+HP: 1,600,000<br>
+Max Hit: 3400+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, AE rampage, flurries starting at 25%, unslowable?<br>
+Buff magic and fire resist.<br>
+Send in knight to ramp tank, followed by ranger with weapon shield/flame licks, then tank.<br>
+Spawns four adds at 90%, 75%, 50%, and six adds at 25%.  DPS should clear adds when they spawn, though with enough enchanters you can just chain AE stun the last group or two.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Vindictive Strike (-200 Magic): Single target 3500 damage, 20 second stun (3 minute recast timer).<br>
+Rage of Zek (-100 Fire): Range 200 PBAE 400/tick DoT, 50 tick mana drain, 9 curse counters.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime5.txt">Back to top</a><br>

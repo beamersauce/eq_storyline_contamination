@@ -1,0 +1,38 @@
+PoP Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">Planes of Power Progression Guide</c><br>
+==============================================================<br>
+Made by: <c "#fc7703">Zuggle</c> <a href="https://sites.google.com/view/anzac-raids/home"><Anzac Raids></a>, Aradune<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Expansion Overview  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/WhatsNew.txt">---- What's New? ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/NewZones.txt">---- New Zones ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Spells.txt">---- Spells in Planes of Power ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/LoY.txt">---- Spells in Legacy of Ykesha ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/QuestedArmor.txt">---- Ornate and Elemental Armor ----</a><br>
+<br>
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">---- Notable Quests ----</a><br>
+<br>
+<a href="https://www.eqprogression.com/aid-grimel-quest-signet-of-the-arcane-signet-of-might-quest-blacksmithing/">Signet of Might/Signet of the Arcane</a><br>
+To complete this quest and earn your earring, you will need to be Elemental flagged and 220 in each tradeskill for the Quest NPC to allow you to progress.<br>
+<br>
+<a href="https://everquest.allakhazam.com/db/quest.html?quest=2667">Essences of Power</a>: By collecting a drop from each of the four elemental gods, you can earn one of four raid tier items (and one bag).  You can select which item you want.  The quest is repeatable.<br>
+<br>
+<a href="https://everquest.allakhazam.com/db/item.html?item=17786">The Binden Concerrentia</a>: This is a 75HP neck item with a 20 second gate clicky to PoK.  You will need to purchase reagents to cast the clicky (~105pp each), but it is still cheaper than buying/creating Gate Potions.<br>
+<a href="https://almarsguides.com/eq/quests/PoP/JimloksFriend/">The Binden Concerrentia quest chain guide (Almar's Guide)</a>: Use this link to start from the first of the three quests to complete the Binden Concerrentia.<br>
+<br>
+<a href="https://everquest.allakhazam.com/db/quest.html?quest=2297">Aid Fimli</a>: Short quest for a 12AC, 50HP cloak.<br>
+<br>
+
+<c "#0080ff">  < > < > < > < > < > Raid Strategies  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">---- Raid Boss & Event Info ----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt">---- PoP Flagging ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+<br>

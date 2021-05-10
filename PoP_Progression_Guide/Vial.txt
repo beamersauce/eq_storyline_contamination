@@ -1,0 +1,32 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt"><c "#0080ff">----Click here to go back to PoP Main Page----</c></a><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt"><c "#0080ff">----Click here to go back to PoP Flagging Page----</c></a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T5.txt"><c "#0080ff">----Click here to go back to Tier 5 Flagging Page----</c></a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Odylic Vial  < > < > < > < > < > </c><br>
+<br>
+The <a href="https://everquest.allakhazam.com/db/item.html?item=20756> Odylic Vial</a> is made by combining the following items in a Tanaan Kiln.  The Vial and glazes are No-Fail Pottery combines.<br>
+2x High Quality Firing Sheet.<br>
+1x Multielement Glaze.<br>
+1x Unfired Medium Container.<br>
+<br>
+The bottleneck in this combine is the <a href="https://everquest.allakhazam.com/db/item.html?item=20755>Multielement Glaze</a>.  It requires four different elemental glazes.  Each glaze requires two drops from mobs in each elemental zone.<br>
+<br>
+<a href="https://everquest.allakhazam.com/db/recipe.html?recipe=3726>Aqua Glaze</a><br>
+Loot these two items from mobs in the Plane of Water:<br>
+<a href="https://everquest.allakhazam.com/db/item.html?item=20731>Emerald Colored Mephit Scales</a><br>
+<a href="https://everquest.allakhazam.com/db/item.html?item=20733>Oil of a Frog</a><br>
+<br>
+<a href="https://everquest.allakhazam.com/db/recipe.html?recipe=3057>Earthen Glaze</a><br>
+Loot these two items from mobs in the Plane of Earth:<br>
+<a href="https://everquest.allakhazam.com/db/item.html?item=18900>Liquified Earth</a><br>
+<a href="https://everquest.allakhazam.com/db/item.html?item=17857>Shattered Crystal</a><br>
+<br>
+<a href="https://everquest.allakhazam.com/db/recipe.html?recipe=3109>Magma Glaze</a><br>
+Loot these two items from mobs in the Plane of Fire:<br>
+<a href="https://everquest.allakhazam.com/db/item.html?item=18050>Fiery Granite</a><br>
+<a href="https://everquest.allakhazam.com/db/item.html?item=18051>Solidified Magma</a><br>
+<br>
+<a href="https://everquest.allakhazam.com/db/recipe.html?recipe=3112>Windy Glaze</a><br>
+Loot these two items from mobs in the Plane of Air:<br>
+<a href="https://everquest.allakhazam.com/db/item.html?item=18055>Alabaster Beak</a><br>
+<a href="https://everquest.allakhazam.com/db/item.html?item=18056>Ivory Stormrider Canine</a><br>

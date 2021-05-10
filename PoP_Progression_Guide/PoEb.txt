@@ -1,0 +1,76 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Earth</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoE_Overview.html">---- Plane of Earth: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoE_Events.html">---- Plane of Earth: Events ----</a><br>
+<a href="https://www.eqprogression.com/plane-of-earth-trap-guide/">---- Plane of Earth Traps Guide (EQP) ----</a><br>
+<a href="https://www.eqprogression.com/the-rathe-council-earth-b/">---- The Rathe Council Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoEa.txt">Plane of Earth A</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoE.txt">Return to Plane of Earth Main Page</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoERathe.txt">PoEb: The Rathe Council Event</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: War Chieftan Awisano<br>
+Level: 75<br>
+HP: 350,000<br>
+Max Hit: 2400+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable.<br>
+Buff poison resist.<br>
+To spawn the War Chieftan, kill 4x A Myrmidon of Stone.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Deathfog IV (-150 Poison): Range 100 PBAE 900/tick DoT.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: War Chieftan Birak<br>
+Level: 75<br>
+HP: 350,000<br>
+Max Hit: 2400+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable.<br>
+Buff poison resist.<br>
+To spawn the War Chieftan, kill 4x A Stonefist Clansman.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Deathfog IV (-150 Poison): Range 100 PBAE 900/tick DoT.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: War Chieftan Galronar<br>
+Level: 75<br>
+HP: 350,000<br>
+Max Hit: 2400+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable.<br>
+Buff poison resist.<br>
+To spawn the War Chieftan, kill 4x A Rock Studded Champion.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Deathfog IV (-150 Poison): Range 100 PBAE 900/tick DoT.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Warlord Gintolaken<br>
+Level: 75<br>
+HP: 1,200,000<br>
+Max Hit: 2600+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE ramp, slowable.<br>
+Buff magic resist.  Warlord is also magic resistant.<br>
+To spawn the Warlord, kill the previous three War Chieftans.<br>
+If you have an RGC chain on main tank, or have paladins hit RGC on tank when he gets debuff, it should alleviate threat issues.<br>
+Possible memblur.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Gravel Rain (-300 Magic): Range 50 PBAE 250 damage, 95% snare, lasts 30 seconds, 72 curse counters.<br>
+Storm Comet (Unresistable): Range 30 Targeted AE 3000 damage, 90% slow, lasts 1 hour, 36 curse counters.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoEb.txt">Back to top</a><br>

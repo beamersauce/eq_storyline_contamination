@@ -1,0 +1,99 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 5 - <c "#ffffff">Plane of Time</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://everquest.allakhazam.com/db/zones.html?zstrat=178">---- Plane of Time B: Allakhazam (Click the Phase links at the top)----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime1.txt">Plane of Time: Phase 1 </a>(5 elemental events: Earth, Air, Water, Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime2.txt">Plane of Time: Phase 2 </a>(3 elemental events: Earth + Air, Water + Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime3.txt">Plane of Time: Phase 3 </a>(8 waves of trash and named, two rock bosses)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime.txt">Return to Plane of Time Main Page</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime5.txt">Plane of Time: Phase 5 </a>(Trash, Bertoxxulous, Innoruuk, Cazic Thule, Rallos Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime6.txt">Plane of Time: Phase 6 </a>(Quarm)<br>
+<br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTime_4.html">---- Time Phase 4 Bosses: Rasper's ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4557">Saryrn</a><br>
+Level: 71<br>
+HP: 1,200,000<br>
+Max Hit: 1800+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target rampage, unslowable?<br>
+Buff poison and disease resist (magic for adds).<br>
+<c "#ffb0b0">
+Summons four torment type adds at 90%, 50%, and 10%.<br>
+a mouth of insanity (unrootable).<br>
+a mouth of dementia (rootable, procs root).<br>
+a tormentor (unrootable, unmezzable, backstabs).<br>
+a twisted tormentor (rootable, procs root).<br>
+</c>
+The unrootable adds spawn on the left side, so tank Saryrn there with an SK for rampage, melee can quickly switch and burn adds with the offtanks.<br>
+The other side spawns rootable/mezzable mobs for Paladins and Enchanters to CC.  Park them.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Horrifying Affliction (-300 Disease): Range 300 PBAE 150/tick mana drain, -500 mana pool, decrease spell damage 50%.<br>
+Torrent of Agony (-300 Poison): Single target 1500 damage, 40% slow, decrease aggro multiplier 60%, 20 disease counters.<br>
+Torrential Torment (-450 Poison): Range 100 45/tick mana drain, 9 curse counters.<br>
+Adds: Corporeal Torment (-200 Magic): Single target 500 damage, 250/tick DoT, root.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4556">Terris Thule</a><br>
+Level: 71<br>
+HP: 1,100,000<br>
+Max Hit: 1800+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target rampage, unslowable?<br>
+Buff magic resist.<br>
+<c "#ffb0b0">
+Spawns four nightmare adds at 90%, 50%, and 10% health. DPS and offtanks should pick up and kill these, but with the 10% adds you could burn boss and offtank/mez.<br>
+A Nightmare Knight of Terris (procs mana drain + mez).<br>
+A Phantasm of Terris (procs mana drain + mez).<br>
+A Summoned Guardian of Terris (unmezzable, unrootable).<br>
+A Summoned Knight of Terris (unmezzable, unrootable).<br>
+</c>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Quivering Nightmares (-400 Magic): Range 300 PBAE increase spell/bash hate by 25%, -200 STR/AGI/STA/INT/WIS.<br>
+Phantasmal Torment (-300 Magic): Range 300 PBAE 200/tick DoT, 150/tick mana drain.<br>
+Adds: Defiled Insanity (-200 Magic): Single target 300/tick mana drain, mez.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4558">Tallon Zek</a><br>
+Level: 71<br>
+HP: 1,300,000<br>
+Max Hit: 2700+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target rampage, unslowable?<br>
+Buff all resists.<br>
+Hug left wall when entering, do not aggro Vallon Zek.<br>
+Due to the short ranged AEs, raid (including melee) should be as spread as possible to mitigate raid damage.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Tallon's Balance (Unresistable): Range 300 PBAE -300 all resists.<br>
+Planeshift (-200 Magic): Range 300 PBAE - Combat skills not allowed, increase mana cost 50%.<br>
+Strategic Blow (-200 Cold): Single target proc 2000 damage, 500/tick DoT, .5 sec stun.<br>
+Barb of Tallon (-100 Fire): Range 50 targeted AE 1500-3500 damage.<br>
+Barb of Tallon (-100 Disease): Range 30 targeted AE 300/tick DoT, -150 AC, decrease aggro multiplier 60%.<br>
+Barb of Tallon (-100 Cold): Range 30 targeted AE 1250-1750 damage, 40% snare, 40% slow.<br>
+Barb of Tallon (-100 Poison): Single target 1750-3500 damage.<br>
+
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4559">Vallon Zek</a><br>
+Level: 71<br>
+HP: 1,200,000<br>
+Max Hit: 2900+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, unslowable?<br>
+Buff magic resist.<br>
+At 50%, spawns two clones.  Someone should pick up the two clones and kite them around the table (we used ranger or an enchanter), while every class with snare or root should be spamming it.  Once parked, keep a paladin root on them (Pal roots don't break!).<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Tactical Strike (Unresistable): Single target feign death, 30 sec stun.  <c "#ffb0b0">Knights should watch GINA timer and taunt a few seconds before this goes off to keep main tank in rotation.</c><br>
+Vallon's Precision (Unresistable): Range 75 PBAE 100/tick DoT, -60 AC, decrease aggro multiplier 40%.<br>
+Blade of Vallon (-200 Magic): Single target 4000-6000 damage.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime4.txt">Back to top</a><br>

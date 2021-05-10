@@ -1,0 +1,14 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Air</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoA_Overview.html">---- Plane of Air: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoA_Events.html">---- Plain of Air: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=11399">---- Xegony: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/xegony-the-queen-of-air-strategy-guide/">---- Xegony the Queen of Air Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoARings.txt">Plane of Air: Ring events (Avatars)</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoAXegony.txt">Plane of Air: Xegony Info</a><br>
+<br>

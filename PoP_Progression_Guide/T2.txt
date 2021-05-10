@@ -1,0 +1,59 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt"><c "#0080ff">----Click here to go back to PoP Main Page----</c></a><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt"><c "#0080ff">----Click here to go back to PoP Flagging Page----</c></a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > PoP Progression External Website Links  < > < > < > < > < > </c><br>
+<a href="https://everquest.allakhazam.com/wiki/EQ:The_Planes_of_Power">Allakhazam</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/miscProgression.html">Raspers</a><br>
+<a href="https://everquest.fanra.info/wiki/The_Planes_of_Power_flagging_guide">Fanra</a><br>
+<a href="http://www.bonzz.com/planprog.htm">Bonzz</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+This guide will follow this Google Sheets Flagging Guide: <a href="https://docs.google.com/spreadsheets/d/1-mTY2n2DHUaJr2xMLmewtLmNgsFRYJwZpcXfQPt4emw/edit#gid=67583792>PoP Flag Checklist</a><br>
+If you have not yet, make a copy of this sheet by going to <c "#ff0000">File > Make a copy.</c><br>
+<c "#ff7700">It's a good idea to always hail everything and go through all NPC text, using the NPC provided word links.</c><br>
+<br>
+Guide Format:<br>
+<c "#00ff44">Green steps are NPC dialogue or zoning related,</c><br>
+<c "#ff3b3b">Red steps are boss kills/fights.</c><br>
+<c "#c073ff">Purple steps are not "required" flags. Only enough people need to do these to keep your raid moving forward.</c><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/KeyNPCs.txt">---- Key NPCs ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Figurine.txt">---- Intricate Wooden Figurine (Charm) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T1.txt">---- Tier 1 ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt"> ---- Tier 2 ---- </a><br>
+<c "#0080ff">Ruins of Lxanvom (Crypt of Decay) </c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=174> - <a href="file:///storyline/PoP_Progression_Guide/CoD.txt> CoD Story Window Boss Guide</a> - Zone Page</a> <a href="https://www.raspersrealm.com/Everquest/PoP/CoD_Events.html> - CoD Events Page</a><br>
+<c "#00ff44">[_] Hail Elder Fuirstel in Plane of Tranquility in the Sick Bay.</c> *Must have completed Grummus Flag to get a response.* <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Complete Carprin Event and hail Tarkil Adan in Crypt of Decay to gain access to lower floor. </c>(Keyring: Key to the lower depths of the Ruins of Lxanvom). <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Complete Bertoxxulous Event in Crypt of Decay (lower floor) and hail A Planar Projection. </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#00ff44">[_] Hail Elder Fuirstel again in Plane of Tranquility in the Sick Bay.</c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#00ff44">[_] Hail Adler Fuirstel again outside Plane of Disease.</c><br>
+<br>
+<c "#0080ff">Plane of Torment</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=167> - <a href="file:///storyline/PoP_Progression_Guide/PoT.txt> PoT Story Window Boss Guide</a> - Zone Page</a> <a href="https://www.raspersrealm.com/Everquest/PoP/PoTorm_Events.html> - Plane of Torment Events</a><br>
+Note: To be able to speak to the NPCs in Plane of Tranquility to start the Torment flagging process, you need to have completed Plane of Disease/Crypt of Decay/Plane of Nightmare flags correctly.<br>
+You can still kill Keeper of Sorrows and Saryrn ahead of time if you get piggied into Plane of Torment but you'll need to fix your flags afterwards.<br><br>
+<c "#00ff44">[_] Say "i will go" to Fahlia Shadyglade in Plane of Tranquility.  She is in the Sick Bay. </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#c073ff">[_] Optional - Quest for <a href="https://everquest.allakhazam.com/db/quest.html?quest=2295> - Screaming Sphere (key)</a> to open the door to Saryrn's Tower in Plane of Torment.  Only one person needs this. </c><br>
+<c "#ff3b3b>[_] Complete the Keeper of Sorrows Event in Plane of Torment and hail Tylis Newleaf who spawns at the end of the event. <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Saryrn in Plane of Torment and hail A Planar Projection. </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#00ff44">[_] Go to Plane of Tranquility and hail both Fahlia Shadyglade and Tylis Newleaf in the Sick Bay.</c><br>
+<br>
+<c "#0080ff">Plane of Storms</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=172> - <a href="file:///storyline/PoP_Progression_Guide/PoS.txt> PoS Story Window Boss Guide</a> - Zone Page</a> <a href="https://www.raspersrealm.com/Everquest/PoP/PoS_Overview.html> - PoStorms Map and Overview</a> <a href="https://www.raspersrealm.com/Everquest/PoP/PoS_Events.html> - PoStorms Events Page</a> <br>
+<c "#ff3b3b>[_] Complete Askr the Lost's <a href="https://everquest.allakhazam.com/db/quest.html?quest=2269> - Aiding Askr</a> quest (Bastion of Thunder access) </c>(Keyring: Talisman of Thunderous Foyer). <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#00ff44">[_] Zone into Bastion of Thunder via stone in the middle of the Plane of Storms zone OR Plane of Tranquility. </c><c "#fbff00">(You've received a character flag!)</c><br>
+<br>
+<c "#0080ff">Plane of Valor</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=170> - <a href="file:///storyline/PoP_Progression_Guide/PoV.txt> PoV Story Window Boss Guide</a> - Zone Page</a> <a href="https://www.raspersrealm.com/Everquest/PoP/PoV_Events.html> - PoValor Events Page</a> <br>
+<c "#c073ff">[_] Optional - Obtain <a href="https://everquest.allakhazam.com/db/quest.html?quest=2481> - Crystalline Globe (key)</a> to open the door to Aerin`Dar.  Only one person needs this. </c><br>
+<c "#ff3b3b>[_] Kill Aerin`Dar and hail A Planar Projection. </c><c "#fbff00">(You've received a character flag!)</c><br>
+<c "#00ff44">[_] Zone into Halls of Honor via the Plane of Valor underground tunnel entrance. </c><c "#fbff00">(You've received a character flag!)</c><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T3.txt">---- Tier 3 ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Tier 4 (Elemental Planes) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T5.txt">---- Tier 5 (Plane of Time) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+<br>

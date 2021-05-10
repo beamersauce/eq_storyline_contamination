@@ -1,0 +1,78 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Fire</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoF_Overview.html">---- Plane of Fire: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoF_Events.html">---- Plane of Fire: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10778">---- Fennin Ro, the Tyrant of Fire: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/plane-of-fire-boss-guide/">---- Plane of Fire Boss Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<c "#0080ff">Quick note:</c> Everything in Plane of Fire is immune to fire (+10,000 Fire Resist).<br>
+Almost all bosses are similarly resistant to all other spell types, with the exception of Magmaton, who is highly resistant to magic (+1000).<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoFBosses.txt">Plane of Fire Raid Bosses</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoF.txt">Plane of Fire Main Page</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Fennin Ro, the Tyrant of Fire<br>
+Level: 80<br>
+HP: 950,000<br>
+Max Hit: 1900+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE ramp, slowable.<br>
+Buff fire resist.<br>
+Slightly less resistant to disease than others.<br>
+To begin this event, kill the Guardian of Doomfire (flurries) near Tables (after Yozanni and Reparm).  Go through the script, killing the mobs and named on the way to Fennin Ro.<br>
+There are eight mini bosses in the script, which are detailed below.<br>
+
+Melee should max range and back out once a minute to avoid the AE (there is a GINA trigger for this).  Once he dies, hail Essence of Fire to get your Globe of Dancing Flame.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Cataclysm of Ro (-1000 Fire): Range 100 PBAE 3000 damage, 100/tick DoT, 100/tick mana drain, lasts one hour. 18 curse counters.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoFFenninRo.txt">Fennin Ro Script mini bosses</a><br>
+<br>
+Many if not all of these are probably slowable.  I don't have info on it.<br>
+All of these minis have <c "#00ff44">~250,000 HP.</c><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Azobian the Darklord<br>
+Max Hit: 1000+<br>
+Infernal Darkness (Unresistable): Range 50 PBAE blind, 2 mana drain, -100 ATK.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Hebabbilys the Ragelord<br>
+Max Hit: 3000+<br>
+Ravaging Rage of the Fiends (Self-buff): Buffs attack speed 99%, AC +450, ATK +500. <c "#eb3434">DISPEL THIS!</c><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Javonn the Overlord<br>
+Max Hit: 2000+<br>
+Fiery Assault (-400 Fire): Range 100 PBAE 500 damage, spinstun 2 seconds.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Reaxnous the Chaoslord<br>
+Max Hit: 1500+<br>
+Rain of Burning Fire (-400 Fire): Range 100 Targeted AE 1000 damage.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Chancellor Traxom<br>
+Max Hit: 1400+<br>
+Rising Suns (-300 Fire): (Single target 500/tick DoT, blind.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Chancellor Kirta<br>
+Max Hit: 1400+<br>
+Web of Flame (-150 Fire): Range 150 PBAE 50/tick mana drain, root.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Warlord Prollaz<br>
+Max Hit: 1200+<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Omni Magus Crato<br>
+Max Hit: 1000+<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoFMinis.txt">Back to top</a><br>

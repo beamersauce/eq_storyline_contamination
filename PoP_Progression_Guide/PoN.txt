@@ -1,0 +1,20 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 1 - <c "#ffffff">Plane of Nightmare</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoN_Overview.html">---- Plane of Nightmare: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoN_Events.html">---- Plane of Nightmare: Events ----</a><br>
+<a href="https://almarsguides.com/eq/quests/PoP/PlanarProgression/PlaneofNightmare/HedgeEvent/">---- Hedge Event (Almar's) ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10334">---- Terris Thule: Allakhazam ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T1.txt">---- Story Window T1 Flagging Page ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Terris Thule<br>
+Level: 70<br>
+HP: 465,000<br>
+Max Hit: 1000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+75%: Summons wraith adds. (Kill these before 50% so raid can escape dispel)<br>
+50%: AE Dispels all buffs. (At 53%, the whole raid but main tank can run outside dome to avoid losing all buffs)<br>
+35%: Four gargoyles activate that can quad for 1100.  Offtank or kite and burn TT.<br>

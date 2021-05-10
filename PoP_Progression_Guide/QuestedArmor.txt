@@ -1,0 +1,46 @@
+PoP Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">Planes of Power Progression Guide</c><br>
+==============================================================<br>
+Made by: <c "#fc7703">Zuggle</c> <a href="https://sites.google.com/view/anzac-raids/home"><Anzac Raids></a>, Aradune<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Expansion Overview  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/WhatsNew.txt">---- What's New? ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/NewZones.txt">---- New Zones ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Spells.txt">---- Spells in Planes of Power ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/LoY.txt">---- Spells in Legacy of Ykesha ----</a><br>
+<br>
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">---- Ornate and Elemental Armor ----</a><br>
+<br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=11924>Bor Wharhammer</a>, an NPC in the Plane of Tranquility, is in the building directly east of the zone in.  He will help you convert your Ornate molds (Tradeable) and Elemental molds (No Trade) into No Trade armor.<br>
+<br>
+If you give Bor Wharhammer 500 Platinum, he will give you a container and an emblem specific to your class.  Place your mold/pattern in the container, along with 1-3 of the appropriate ethereal pieces, and either a <a href="https://www.almarsguides.com/eq/quests/PoP/OrnateClassArmor/TanaanTSItem/>Tanaan Embroidery Needle</a> or a <a href="https://everquest.allakhazam.com/db/item.html?item=17128>Tanaan Smithing Hammer</a>.  This is a No-Fail combine.<br>
+<br>
+Plate classes use <a href="https://everquest.allakhazam.com/db/item.html?item=17230>Ethereal Sheet of Metal</a> (Smithing, 220+).<br>
+Chain classes use <a href="https://everquest.allakhazam.com/db/item.html?item=17231>Ethereal Metal Rings</a> (Smithing, 220+).<br>
+Leather classes use <a href="https://everquest.allakhazam.com/db/item.html?item=17229>Cured Ethereal Energy</a> (Tailoring, 220+).<br>
+Cloth classes use <a href="https://everquest.allakhazam.com/db/item.html?item=17224>Ethereal Silk Swatch</a> (Tailoring, 220+).<br>
+<br>
+The number of Ethereal pieces used depends on the slot:<br>
+Plate, Chain and Cloth classes use 1 for wrists, 2 for hands, head, arms, and feet, and 3 for legs and chest.<br>
+Leather classes use 1 for everything except legs and chest, which use 2.<br>
+<br>
+Plate and Chain classes, use this link to see more details about quested Ornate and Elemental Armor: <a href="https://everquest.allakhazam.com/db/item.html?item=17128>Tanaan Smithing Hammer</a>.<br>
+Leather and Cloth classes, use this link to see more details about quested Ornate and Elemental Armor: <a href="https://everquest.allakhazam.com/db/item.html?item=17228>Tanaan Embroidery Needle</a>.<br>
+<br>
+<a href="https://www.almarsguides.com/eq/Tradeskills/Smithing/pop/>PoP Smithing Guide</a><br>
+<a href="https://www.almarsguides.com/eq/Tradeskills/Tailoring/pop/>PoP Tailoring Guide</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Quests.txt">---- Notable Quests----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Raid Strategies  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">---- Raid Boss & Event Info ----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt">---- PoP Flagging ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+<br>

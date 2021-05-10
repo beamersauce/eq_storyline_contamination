@@ -1,0 +1,124 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Fire</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoF_Overview.html">---- Plane of Fire: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoF_Events.html">---- Plane of Fire: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10778">---- Fennin Ro, the Tyrant of Fire: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/plane-of-fire-boss-guide/">---- Plane of Fire Boss Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<c "#0080ff">Quick note:</c> Everything in Plane of Fire is immune to fire (+10,000 Fire Resist).<br>
+Almost all bosses are similarly resistant to all other spell types, with the exception of Magmaton, who is highly resistant to magic (+1000).<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoF.txt">Plane of Fire Main Page</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoFFenninRo.txt">Fennin Ro Script</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: General Druav Flamesinger<br>
+Level: 75<br>
+HP: 650,000<br>
+Max Hit: 2400+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Buff fire resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Fiery Strike (-350 Fire): Single target 3000 damage + 5 sec stun.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Jaxoliz Dawneyes & Criare Sunmane<br>
+Level: 75<br>
+HP: 700,000<br>
+Max Hit: 2500+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Phoenix Charm (Unresistable): Single target charm, +80% attack speed.  120 second recast, lasts 2 minutes.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Quavonis Firetail<br>
+Level: 78<br>
+HP: 800,000<br>
+Max Hit: 3000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Buff fire resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Juxtapose of Fire (-350 Fire): Shadowstep, PBAE 500 DD, 24 second recast.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Magmaton<br>
+Level: 78<br>
+HP: 800,000<br>
+Max Hit: 3000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable.<br>
+Highly resistant to magic.<br>
+Buff fire resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Juxtapose of Fire (-350 Fire): Shadowstep, PBAE 500 DD, 24 second recast.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Babnoxis the Spider Queen<br>
+Level: 78<br>
+HP: 700,000<br>
+Max Hit: 2300+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable, flurries (rare).<br>
+Most resistant to poison, somewhat resistant to disease and cold.  Least resistant to magic.<br>
+Buff poison resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Poisoned Flames (-350 Poison): Range 300 PBAE 500 hp/tick DoT, 125 mana/tick, 18 poison counters, 30 second recast.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Pyronis<br>
+Level: 78<br>
+HP: 750,000<br>
+Max Hit: 2600+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Most resistant to disease (+140) and poison (+130).  Somewhat resistant to cold (+130).  Least resistant to magic (+100).<br>
+Buff fire resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Mighty Bellow of Fire (-350 Fire): Range 300 PBAE 1500 DD, 1 sec stun, 60 second recast.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Blazzax the Omnifiend<br>
+Level: 78<br>
+HP: 1,000,000<br>
+Max Hit: 3400+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Somewhat resistant to magic and cold.<br>
+Buff fire resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Nova Inferno (-350 Fire): PBAE 2000 damage, 30 second recast.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: General Reparm<br>
+Level: 78<br>
+HP: 1,000,000<br>
+Max Hit: 3000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Buff fire resist (tank).<br>
+Somewhat resistant to magic, cold, and poison.  Least resistant to disease.<br>
+Can one round tanks with unlucky procs.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Fiery Strike (-350 Fire): Single target 3000 DD, 5 sec stun).<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Arch Mage Yozanni<br>
+Level: 78<br>
+HP: 900,000<br>
+Max Hit: 3300+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Least resistant to poison.<br>
+Buff fire resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Disjunction of Flame (-350 Fire): PBAE 250 mana/tick, -450 AC, -200 ATK, 18 curse counters.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoFBosses.txt">Back to top</a><br>

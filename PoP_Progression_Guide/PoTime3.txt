@@ -1,0 +1,57 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 5 - <c "#ffffff">Plane of Time</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://everquest.allakhazam.com/db/zones.html?zstrat=178">---- Plane of Time B: Allakhazam (Click the Phase links at the top)----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime1.txt">Plane of Time: Phase 1 </a>(5 elemental events: Earth, Air, Water, Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime2.txt">Plane of Time: Phase 2 </a>(3 elemental events: Earth + Air, Water + Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime.txt">Return to Plane of Time Main Page</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime4.txt">Plane of Time: Phase 4 </a>(Saryrn, Terris Thule, Tallon Zek, Vallon Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime5.txt">Plane of Time: Phase 5 </a>(Trash, Bertoxxulous, Innoruuk, Cazic Thule, Rallos Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime6.txt">Plane of Time: Phase 6 </a>(Quarm)<br>
+<br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTime_3.html">---- Time Phase 3 Bosses: Rasper's ----</a><br>
+<br>
+Once all phase 2 trials are complete, move through the clock, INVIS, and jump off the cliff.  Run straight and camp/med near the large blue portal for phase 3.<br>
+Each of the 16 mini bosses and the two bosses in Phase 3 can drop <a href="https://everquest.allakhazam.com/db/item.html?item=33307">Time Phased Quintessence</a>, the backflag for Plane of Time (does not enhance charm).<br>
+There are 8 waves that become active one at a time (when the previous wave's two named are killed).<br>
+Each wave consists of around 8 mobs or so + 2 named.  Trash hits for max 1000+, named max hit 2000+.<br>
+Once everything but one or two mobs is killed, the raid should move down and to the side opposite of the last living mob.  When it dies, the two bosses (rock golems) will spawn.  Split and kill them one by one (Supernatural Guardian flurries and is unslowable).<br>
+<br>
+Wave 1. Zek army. NAMED: Deathbringer Blackheart, Ferocious Warboar.<br>
+Wave 2. Bertox army. NAMED: Kraksmaal Fir`dethsin, Xeroan Xi`Geruon.<br>
+Wave 3. Zek army. Named: Deathbringer Skullsmash, Deadly Warboar.<br>
+Wave 4. Cazic Thule army. Named: Herlsoakian, Sinrunal Gorgedreal.<br>
+Wave 5. Zek army. Named: Deathbringer Rianit, Needletusk Warboar.<br>
+Wave 6. Innoruuk army. Named: Dersool Fal`Giersnaol, Xerskel Gerodnsal.<br>
+Wave 7. Terris Thule army. Named: Dark Knight of Terris, Undead Squad Leader.<br>
+Wave 8. Saryrn army. Named: Dreamwarp, Champion of Torment.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/npc.html?id=11787">Supernatural Guardian</a><br>
+Level: 72<br>
+HP: 550,000<br>
+Max Hit: 1600+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Flurries, unslowable<br>
+No resist needed.<br>
+High disease resist.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/npc.html?id=11788">Avatar of the Elements</a><br>
+Level: 72<br>
+HP: 675,000<br>
+Max Hit: 1600+ <br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Partially slowable.<br>
+Buff magic resist.<br>
+Some resistance to all spell types.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Crumbling Earth Breath (-300 Magic): Range 250 PBAE 1100 damage, 60% snare.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime3.txt">Back to top</a><br>

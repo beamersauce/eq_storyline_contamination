@@ -1,0 +1,71 @@
+PoP Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">Planes of Power Progression Guide</c><br>
+==============================================================<br>
+Made by: <c "#fc7703">Zuggle</c> <a href="https://sites.google.com/view/anzac-raids/home"><Anzac Raids></a>, Aradune<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Expansion Overview  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/WhatsNew.txt"><c "#0080ff">---- What's New? ----</c></a><br>
+<br>
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">---- New Zones ----</a><br>
+<br>
+When LDoN is released (12 weeks after PoP), most zones can be entered by merit of level (55-63).<br>The Tower of Solusek Ro, the Elemental Planes, and the Plane of Time will remained locked.<br>
+<br>
+<c "#fc7703">  < > < > < > < > < > Tier 0 - <c "#ffffff">Level 1+</c> < > < > < > < > < > </c><br>
+
+<c "#00ff00">Plane of Knowledge</c><br>
+<c "#00ff00">Plane of Tranquility</c><br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 1 - <c "#ffffff">Level 46+</c> < > < > < > < > < > </c><br>
+
+<c "#00ffff">Plane of Disease</c><br>
+<c "#00ffff">Plane of Justice</c><br>
+<c "#00ffff">Plane of Innovation</c><br>
+<c "#00ffff">Plane of Nightmare</c><br>
+
+<c "#00ffff">  -Lair of Terris Thule (PoNb) - Raid zone</c><br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 2  < > < > < > < > < > </c><br>
+
+<c "#0080ff">Ruins of Lxanvom (Crypt of Decay)</c><br>
+<c "#0080ff">Plane of Torment</c><br>
+<c "#0080ff">Plane of Storms</c><br>
+<c "#0080ff">Plane of Valor</c><br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 3  < > < > < > < > < > </c><br>
+
+Torden, Bastion of Thunder (BoT)<br>
+Halls of Honor<br>
+-Temple of Marr (HoHb)<br>
+Drunder, Fortress of Zek (Plane of Tactics)<br>
+Solusek Ro's Tower</c><br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 4  < > < > < > < > < > </c><br>
+
+<c "#ffff00">Doomfire, the Burning Lands (Plane of Fire)</c><br>
+<c "#ffff00">Eryslai, the Kingdom of Wind (Plane of Air)</c><br>
+<c "#ffff00">Reef of Coirnav (Plane of Water)</c><br>
+<c "#ffff00">Vergarlson, the Earthen Badlands (Plane of Earth)</c><br>
+<c "#ffff00">-Ragrax, Stronghold of the Twelve (PoEb) - Raid Zone</c><br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 5  < > < > < > < > < > </c><br>
+
+<c "#ff0000">Plane of Time A</c><br>
+<c "#ff0000">Plane of Time B (Raid Zone, DZ only)</c><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Spells.txt">---- Spells in Planes of Power ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/LoY.txt">---- Spells in Legacy of Ykesha ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/QuestedArmor.txt">---- Ornate and Elemental Armor ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Quests.txt">---- Notable Quests----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Raid Strategies  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">---- Raid Boss & Event Info ----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt">---- PoP Flagging ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+<br>

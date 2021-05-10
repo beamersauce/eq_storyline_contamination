@@ -1,0 +1,52 @@
+PoP Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">Planes of Power Progression Guide</c><br>
+==============================================================<br>
+Made by: <c "#fc7703">Zuggle</c> <a href="https://sites.google.com/view/anzac-raids/home"><Anzac Raids></a>, Aradune<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Expansion Overview  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/WhatsNew.txt">---- What's New? ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/NewZones.txt">---- New Zones ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Spells.txt">---- Spells in Planes of Power ----</a><br>
+<br>
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Spells in Legacy of Ykesha----</a><br>
+<br>
+Legacy of Ykesha releases one hour after Planes of Power.  The spells are quested in LoY zones.<br>
+Some spells are lower level and useless, while others like Temperance, Pure Blood, Blood of Nadox, and the bard Arias are very useful.<br>
+<br>
+<c "#cfcf00">Bards:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2328">Aria of Asceticism</a>, Kardin Nillic in Gulf of Gunthak.<br>
+<c "#cfcf00">Bards:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2388">Aria of Innocence</a>, Jusean Evanesque [Bard Guildmaster] in South Qeynos.<br>
+<c "#42b0f5">Beastlords:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2365">Bond of the Wild & Malaria</a>, Craegin Coldtongue in Gulf of Gunthak.<br>
+<c "#0080ff">Clerics:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2368">Temperance</a>, Millius Darkwater in Gulf of Gunthak.<br>
+<c "#0080ff">Clerics:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2405">Pure Blood</a>, Grennik Neltrin in Gulf of Gunthak.<br>
+<c "#00f000">Druids:</c> <a href="https://everquest.allakhazam.com/db/spell.html?spell=3834">Healing Water</a>, Nolwik Barquin in Gulf of Gunthak.<br>
+<c "#00f000">Druids:</c> <a href="https://everquest.allakhazam.com/db/spell.html?spell=3693">Pure Blood</a>, Grennik Neltrin in Gulf of Gunthak.<br>
+<c "#f5f500">Enchanters:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2329">Leviathan Eyes</a>, Ofala Olan in Gulf of Gunthak.<br>
+<c "#f5f500">Enchanters:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2330">Scryer's Trespass</a>, Ofala Olan in Gulf of Gunthak.<br>
+<c "#8f4800">Magicians:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2342">Primal Remedy</a>, Vera in Gulf of Gunthak.<br>
+<c "#8f4800">Magicians:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2343">Elemental Empathy</a>, Vera in Gulf of Gunthak.<br>
+<c "#7300a0">Necromancers:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2406">Auspice & Comatose</a>, Cedric Trallus in Stonebrunt Mountains.<br>
+<c "#50a192">Paladins:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2383">Ethereal Cleansing</a>, Millius Darkwater in Gulf of Gunthak.<br>
+<c "#50a192">Paladins:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2443">Light of Life</a>, Millius Darkwater in  Gulf of Gunthak.<br>
+<c "#f07f00">Rangers:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2344">Swarm of Pain</a>, Gaudric Stormwynd in Gulf of Gunthak.<br>
+<c "#f07f00">Rangers:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2380">Icewind</a>, Gaudric Stormwynd in Gulf of Gunthak.<br>
+<c "#7f0000">Shadowknights:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2406">Blood of Pain & Comatose</a>, Cedric Trallus in Stonebrunt Mountains.<br>
+<c "#c2b459">Shamans:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2407">Stoicism</a>, an impassive sea spirit in Gulf of Gunthak.<br>
+<c "#c2b459">Shamans:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2405">Blood of Nadox</a>, Grennik Neltrin in Gulf of Gunthak.<br>
+<c "#c045ff">Wizards:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2378">Vision Shift</a>, Redlin Hullnic in Gulf of Gunthak.<br>
+<c "#c045ff">Wizards:</c> <a href="https://everquest.allakhazam.com/db/quest.html?quest=2379">Frozen Harpoon</a>, Lairyn Debeian in Gulf of Gunthak.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/QuestedArmor.txt">---- Ornate and Elemental Armor ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Quests.txt">---- Notable Quests----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Raid Strategies  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">---- Raid Boss & Event Info ----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt">---- PoP Flagging ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+<br>

@@ -1,0 +1,24 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 2 - <c "#ffffff">Ruins of Lxanvom (Crypt of Decay)</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/CoD_Overview.html">---- Crypt of Decay: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/CoD_Events.html">---- Crypt of Decay: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10385">---- Bertoxxulous: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/carprin-bertoxxulous-raid-guide/">---- Carprin Cycle & Bertoxxulous Raid Guide (EQP) ----</a><br>
+<a href="https://almarsguides.com/eq/quests/PoP/PlanarProgression/CryptofDecay/BertoxxulousEvent/">---- Bertoxxulous Raid Guide (Almar's) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T2.txt">---- Story Window T2 Flagging Page ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Bertoxxulous<br>
+Level: 70<br>
+HP: 600,000<br>
+Max Hit: 2300+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable.<br>
+Strong vs. Cold, Disease, Poison.<br>
+Buff disease and magic resist.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Rot of the Plaguebringer (-500 Disease): Range 150 PBAE 500 damage, progressive mana drain (-11 to 635/tick), splurt DoT, -11 to -635/tick, reduces ATK -150, lasts 5 minutes.  72 disease counters.<br>
+<br>

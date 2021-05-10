@@ -1,0 +1,15 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Water</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoW_Overview.html">---- Plane of Water: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoW_Events.html">---- Plane of Water: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=11095">---- Coirnav: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/plane-of-water-boss-guide/">---- Plane of Water Boss Guide(EQP) ----</a><br>
+<a href="https://www.eqprogression.com/coirnav-the-avatar-of-water-raid-guide/">---- Coirnav the Avatar of Water Raid Guide(EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoWBosses.txt">Plane of Water: Bosses Info</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoWCoirnav.txt">Plane of Water: Coirnav Info</a><br>
+<br>

@@ -1,0 +1,22 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 2 - <c "#ffffff">Plane of Storms</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoS_Overview.html">---- Plane of Storms: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoS_Events.html">---- Plane of Storms: Events ----</a><br>
+<br>
+<c "#0080ff">  < > < > Aiding Askr Quest (Bastion of Thunder access) < > < > < > </c><br>
+<a href="https://almarsguides.com/eq/quests/PoP/PlanarProgression/PlaneofStorms/AidingAskr/">---- Aiding Askr (Almar's) ----</a><br>
+<a href="https://everquest.allakhazam.com/db/quest.html?quest=2269">---- Aiding Askr (Allakhazam) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T2.txt">---- Story Window T2 Flagging Page ----</a><br>
+<br>
+- You can preloot all items for Aiding Askr (BoT Access).<br>
+- When finished, you do not have to zone into BoT from Plane of Storms.  You can zone from Tranquility.<br>
+- Named are one groupable, but have 175k HP, and drop 6-7 medallions.<br>
+- You need the following:<br>
+1 Storm giant head<br>
+1 Storm Satuur Sash (NE camp)<br>
+1 Storm Taarid Bone (West camp)<br>
+1 Volaas Beard (South camp)<br>
+2 Esoteric Medallions (from different camps)<br>

@@ -1,0 +1,51 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 5 - <c "#ffffff">Plane of Time</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://everquest.allakhazam.com/db/zones.html?zstrat=178">---- Plane of Time B: Allakhazam (Click the Phase links at the top)----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime1.txt">Plane of Time: Phase 1 </a>(5 elemental events: Earth, Air, Water, Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime.txt">Return to Plane of Time Main Page</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime3.txt">Plane of Time: Phase 3 </a>(8 waves of trash and named, two rock bosses)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime4.txt">Plane of Time: Phase 4 </a>(Saryrn, Terris Thule, Tallon Zek, Vallon Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime5.txt">Plane of Time: Phase 5 </a>(Trash, Bertoxxulous, Innoruuk, Cazic Thule, Rallos Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime6.txt">Plane of Time: Phase 6 </a>(Quarm)<br>
+<br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTime_2.html">---- Time Phase 2 Bosses: Rasper's ----</a><br>
+<br>
+You have the remaining time from phase 1 + one hour to complete phase 2.  Phase 2 is split into three areas: Fire/Water, Earth/Air, and Undead.<br>
+Undead will stay and pull phase 2 mobs to the entrance, the other two groups can invis and move to their respective back clock further west.<br>
+Clear the trash, clear the named, then once all trials are complete, you move through the clock, INVIS, and jump off the cliff.  Run straight and camp/med near the large blue portal for phase 3.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Earthen Overseer<br>
+HP: 250,000<br>
+Max Hit: 1200+ <br>
+Pure melee, flurries, slow immune.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Windshapen Warlord of Air<br>
+HP: 250,000<br>
+Max Hit: 1200+ <br>
+Pure melee.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Gutripping War Beast<br>
+HP: 250,000<br>
+Max Hit: 1400+ <br>
+Pure melee.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: War Shapen Emissary<br>
+HP: 250,000<br>
+Max Hit: 1200+, rampages <br>
+Pure melee.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Ralthos Enrok<br>
+HP: 250,000<br>
+Max Hit: 1000+, flurries<br>
+Unholy Aura (Unresistable): Range 150 PBAE 800 damage, -90 ATK/AGI/STR/STA, lasts 2 minutes.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime2.txt">Back to top</a><br>

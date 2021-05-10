@@ -1,0 +1,17 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Fire</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoF_Overview.html">---- Plane of Fire: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoF_Events.html">---- Plane of Fire: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10778">---- Fennin Ro, the Tyrant of Fire: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/plane-of-fire-boss-guide/">---- Plane of Fire Boss Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<c "#0080ff">Quick note:</c> Everything in Plane of Fire is immune to fire (+10,000 Fire Resist).<br>
+Almost all bosses are similarly resistant to all other spell types, with the exception of Magmaton, who is highly resistant to magic (+1000).<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoFBosses.txt">Plane of Fire Raid Bosses</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoFFenninRo.txt">Fennin Ro Script</a><br>
+<br>

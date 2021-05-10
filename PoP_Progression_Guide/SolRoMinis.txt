@@ -1,0 +1,94 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 3 - <c "#ffffff">Solusek Ro's Tower</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/SolRo_Overview.html">---- Solusek Ro's Tower: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/SolRo_Events.html">---- Solusek Ro's Tower: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10462">---- Solusek Ro: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/solusek-ro-raid-guide/">---- Solusek Ro Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T3.txt">---- Story Window T3 Flagging Page ----</a><br>
+
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Solusek Ro<br>
+Level: 80<br>
+HP: 800,000<br>
+Max Hit: 1800+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable.<br>
+Buff fire resist.<br>
+When you zone in up top you will be aggrod by two Guardian of Fire.  There are six total you need to clear.  They hit for 1300+ and are slowable.<br>
+Ranged DPS should be able to outrange the AE (240 range, 150 AE range).<br>
+Once dead, hail A Planar Projection and then drop down into Plane of Fire.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Solar Flame (-400 Fire): Single target 2000 DD.<br>
+Solar Winds (-400 Fire): Targeted AE -1000 DD -50ATK.<br>
+Corona of Sol (Self Buff): 150 DS, can be dispelled.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/SolRo.txt">5 Minis Boss Info</a><br>
+<br>
+There are five mini bosses which are required to face Solusek Ro.  <c "#fa2f2f">When each mini dies it spawns warders at the entrance to their chamber that deathtouch anybody that tries to enter after the fight starts.</c><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/npc.html?id=11052">Xuzl</a><br>
+Level: 75<br>
+HP: 550,000<br>
+Max Hit: 1000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Miniboss in the west most path.  He spawns four swords around him (150,000 HP).  Pull and kill these first.  Xuzl is a simple fight, but the swords can respawn after a while.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+No spells.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Name: <a href="https://everquest.allakhazam.com/db/npc.html?id=10464">Arlyxir</a><br>
+Level: 75<br>
+HP: 550,000<br>
+Max Hit: 1000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Miniboss in the next to west most path.  Tethered to room.  Straightforward fight.  Casts a 100% complete heal.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Complete Heal.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/npc.html?id=10465">Jiva</a><br>
+Level: 75<br>
+HP: 600,000<br>
+Max Hit: 1000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable, rooted.<br>
+Miniboss in the central path.  Tethered to room.  Casts an AE attack debuff and spawns mezzable adds every 30-45 seconds.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Reckless Mutterings (-300 Fire): Range 200 PBAE 500 DD -50ATK.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/npc.html?id=10463">Rizlona</a><br>
+Level: 70<br>
+HP: 575,000<br>
+Max Hit: 1300+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Miniboss in the next to east most path.  Starts the fight as a Half-elf Bard with an 850 per tick AE DoT.  Upon defeated that form she respawns as a dragon with an AE 500 DD 1 slot dispel.<br>
+Rangers can headshot both forms.<br>
+Can outrange or wall dispel.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Flame Song of Ro (-100 Fire): Range 30 PBAE 850/tick DoT.<br>
+Lava Breath (Fire check): Range 200 PBAE 500 DD, 1 slot dispel.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/npc.html?id=10466">The Protector of Dresolik</a><br>
+Level: 75<br>
+HP: 800,000<br>
+Max Hit: 1000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable.<br>
+Miniboss in the east most path.  Kill the four Guardian of Dresolik to spawn the boss.  Tank and spank.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Flame Song of Ro (-100 Fire): Range 30 PBAE 850/tick DoT.<br>
+Lava Breath (Fire check): Range 200 PBAE 500 DD, 1 slot dispel.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/SolRoMinis.txt">Back to top</a><br>

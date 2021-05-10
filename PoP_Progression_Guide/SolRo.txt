@@ -1,0 +1,32 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 3 - <c "#ffffff">Solusek Ro's Tower</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/SolRo_Overview.html">---- Solusek Ro's Tower: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/SolRo_Events.html">---- Solusek Ro's Tower: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10462">---- Solusek Ro: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/solusek-ro-raid-guide/">---- Solusek Ro Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T3.txt">---- Story Window T3 Flagging Page ----</a><br>
+
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Solusek Ro<br>
+Level: 80<br>
+HP: 800,000<br>
+Max Hit: 1800+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target ramp, slowable.<br>
+Buff fire resist.<br>
+When you zone in up top you will be aggrod by two Guardian of Fire.  There are six total you need to clear.  They hit for 1300+ and are slowable.<br>
+Ranged DPS should be able to outrange the AE (240 range, 150 AE range).<br>
+Once dead, hail A Planar Projection and then drop down into Plane of Fire.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Solar Flame (-400 Fire): Single target 2000 DD.<br>
+Solar Winds (-400 Fire): Targeted AE -1000 DD -50ATK.<br>
+Corona of Sol (Self Buff): 150 DS, can be dispelled.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/SolRoMinis.txt">5 Minis Boss Info</a><br>
+<br>

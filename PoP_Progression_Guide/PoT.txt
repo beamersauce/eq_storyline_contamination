@@ -1,0 +1,22 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 2 - <c "#ffffff">Plane of Torment</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTorm_Overview.html">---- Plane of Torment: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTorm_Events.html">---- Plane of Torment: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10360">---- Saryrn: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/saryrn-raid-guide/">---- Plane of Torment Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T2.txt">---- Story Window T2 Flagging Page ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Saryrn<br>
+Level: 70<br>
+HP: 840,000<br>
+Max Hit: 700+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, slowable.<br>
+At 90% and every 10% after, spawns three ravens which are snareable/rootable.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Will of Saryrn (Magic): PBAE 800 DD with 6 second stun.<br>
+<br>

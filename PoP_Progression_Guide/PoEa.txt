@@ -1,0 +1,127 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Earth</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoE_Overview.html">---- Plane of Earth: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoE_Events.html">---- Plane of Earth: Events ----</a><br>
+<a href="https://www.eqprogression.com/plane-of-earth-trap-guide/">---- Plane of Earth Traps Guide (EQP) ----</a><br>
+<a href="https://www.eqprogression.com/the-rathe-council-earth-b/">---- The Rathe Council Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoE.txt">Return to Plane of Earth Main Page</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoEb.txt">Plane of Earth B</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoERathe.txt">PoEb: The Rathe Council Event</a><br>
+<br>
+There are four rings in Plane of Earth A that must be completed in order for A Perfected Warder of Earth to spawn in the caves.  Tantisala Jaggedtooth blocks the door but drops a key for access.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Peregrin Rockskull (Stone Ring)<br>
+Level: 73<br>
+HP: 600,000<br>
+Max Hit: 1800+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, partially slowable, flurries, memblurs self.<br>
+Buff magic resist.<br>
+1. Kill all stone guys.<br>
+2. AE ~50x A Stone Fortification.  Pull in bunches and AE.<br>
+3. Kill Mound of Rubble until they start walking back.<br>
+4. Kill Rock Monstrosity.<br>
+5. Kill six waves of 4x A Stone Heap.  When all 4 die, the new wave spawns.<br>
+6. Kill Peregrin Rockskull.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Pebble Rain (Magic): Range 50 PBAE 75 damage, 95% snare.<br>
+Gift of Hate (Self buff): Self memblur 20%.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Derugoak Bloodwalker (Vine Ring)<br>
+Level: 73<br>
+HP: 550,000<br>
+Max Hit: 1800+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, partially slowable, flurries, memblurs self.<br>
+Buff fire resist.<br>
+1. Kill 30 A Tainted Rock Beast.<br>
+2. Kill 10 A Bloodthirsty Vegerog.<br>
+3. Kill Derugoak Bloodwalker.<br>
+Adds may spawn at 50% and 15% (two and four).  They are mezzable and despawn when he dies.<br>
+Casters should stay max range to avoid AE.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Meteor Storm (-300 Fire): Range 80 Targeted AE 1500 damage, 500 mana drain, 1 second stun.<br>
+Gift of Hate (Self buff): Self memblur 20%.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: A Monstroud Mudwalker (Mud Ring)<br>
+Level: 73<br>
+HP: 550,000<br>
+Max Hit: 1800+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, partially slowable, memblurs self.<br>
+No resists needed.<br>
+1. Kill all An Earthen Mudwalker.<br>
+2. Kill Sludge Lurkers, when they get to a certain health they will despawn, spawning 10x A Muck Mudlet.  These are stunnable, AE. Repeat this 4-5 times until A Sludge Lurker dies.<br>
+3. Kill 4x A Filth Gorger (Ramp + AE Ramp?) to spawn the boss.
+4. Kill A Monstrous Mudwalker.  He has an AE unresistable root.  Stack raid to avoid ping pong aggro.  If players die, adds spawn per death and don't despawn, but are mezzable.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Shackles (Unresistable): Range 35 PBAE root.<br>
+Gift of Hate (Self buff): Self memblur 20%.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: A Perfected Warder of Earth (Dust Ring)<br>
+Level: 73<br>
+HP: 500,000<br>
+Max Hit: 1900+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, slowable, snareable, rootable, memblurs self.<br>
+Buff cold resist.<br>
+1. Kill a dusty warder.<br>
+2. Spawns 6-8 a dust devotee (mezzable).<br>
+3. Pull and kill the 40x a dust devotees.<br>
+4. Kill 3 a triumverate of soil.  The boss spawns when the third dies, so have it on the platform and be ready.<br>
+5. Kill A Perfected Warder of Earth. Periodically does one of three things: spawn 3x triumverate of soil adds which may not be mezzable, 3x triumverate protector adds which are mezzable, or no adds.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Raging Blizzard (-300 Cold): Range 80 Targeted AE 600 damage, 400 mana drain.<br>
+Fist of Earth (Magic): Range 30 PBAE 200 damage.<br>
+Gift of Hate (Self buff): Self memblur 20%.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: A Mystical Arbitor of Earth (grants flag to PoEb)<br>
+Level: 74<br>
+HP: 550,000<br>
+Max Hit: 1800+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, slowable, memblurs self. Despawns in 50 minutes.<br>
+Buff magic resist. Wear magic resist gear if available.<br>
+Once dead, hail A Planar Projection and then zone into PoEb.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Elemental Judgment (-200 Magic): Range 150 PBAE 500 tick/DoT, 350/tick mana drain, 35% slow, spinstun 7.5 secs, lasts 2 minutes.<br>
+Gift of Hate (Self buff): Self memblur 20%.<br>
+<br>
+
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Tantisala Jaggedtooth<br>
+Level: 73<br>
+HP: 600,000<br>
+Max Hit: 2300+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, slowable.<br>
+Buff disease resist.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Diseased Cloud (-150 Disease): Range 200 Targeted AE 1250 damage, 55% slow, lasts 5 minutes.  9 disease counters.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoEa.txt">Back to top</a><br>

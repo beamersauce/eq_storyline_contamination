@@ -1,0 +1,35 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Water</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoW_Overview.html">---- Plane of Water: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoW_Events.html">---- Plane of Water: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=11095">---- Coirnav: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/plane-of-water-boss-guide/">---- Plane of Water Boss Guide(EQP) ----</a><br>
+<a href="https://www.eqprogression.com/coirnav-the-avatar-of-water-raid-guide/">---- Coirnav the Avatar of Water Raid Guide(EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoWBosses.txt">Plane of Water: Bosses Info</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoW.txt">Return to Plane of Water Main Page</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Coirnav the Avatar of Water<br>
+Level: 80<br>
+HP: 250,000<br>
+Max Hit: 2100+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Rampage and AE rampage, slowable?<br>
+Buff cold resist.<br>
+1. Kill Guardian of Coirnav.<br>
+2. Kill little adds then kill Pwelon of Vapor (2.5 million HP and hit 1500+).<br>
+3. Kill little adds and root Nrinda of Ice away from raid (2.5 million HP and hit 1500+).<br>
+4. Kill little adds then kill Vamuil of Water (2.5 million HP and hit 1500+).<br>
+5. Pull and kill all 3 named that respawn (100,000k HP each).<br>
+6. Kill Coirnav.<br>
+It might be possible to not kill the 3 named and root/CC them away from raid.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Curse of the Triumverate (-1000 Cold): Range 100 PBAE 2000 damage, -500 ATK, dispel.  Lasts one hour, 18 curse counters.<br>
+<br>

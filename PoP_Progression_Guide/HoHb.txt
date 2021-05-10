@@ -1,0 +1,25 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 3 - <c "#ffffff">Temple of Marr</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/HoH_Events.html">---- Temple of Marr: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10342">---- Lord Mithaniel Marr: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/lord-mithaniel-marr-strategy-guide/">---- Lord Mithaniel Marr Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T3.txt">---- Story Window T3 Flagging Page ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Lord Mithaniel Marr<br>
+Level: 77<br>
+HP: 1,200,000<br>
+Max Hit: 2000+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+In order to target and kill LMM, you must kill (in order) Halon, Edium, and Ralthazor.<br>
+Single target ramp, AE Ramp, flurries, slowable (disease).<br>
+Buff magic resist.<br>
+Strong vs. all spells.<br>
+Dog adds respawn after 12 minutes, so time your clearing so you don't get respawns mid-fight.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Strike of  Marr (-200 Magic): Single target 3500 DD, 3 second stun.<br>
+Silence of Marr (-200 Magic): Root.
+<br>

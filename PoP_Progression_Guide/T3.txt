@@ -1,0 +1,62 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt"><c "#0080ff">----Click here to go back to PoP Main Page----</c></a><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt"><c "#0080ff">----Click here to go back to PoP Flagging Page----</c></a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > PoP Progression External Website Links  < > < > < > < > < > </c><br>
+<a href="https://everquest.allakhazam.com/wiki/EQ:The_Planes_of_Power">Allakhazam</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/miscProgression.html">Raspers</a><br>
+<a href="https://everquest.fanra.info/wiki/The_Planes_of_Power_flagging_guide">Fanra</a><br>
+<a href="http://www.bonzz.com/planprog.htm">Bonzz</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+This guide will follow this Google Sheets Flagging Guide: <a href="https://docs.google.com/spreadsheets/d/1-mTY2n2DHUaJr2xMLmewtLmNgsFRYJwZpcXfQPt4emw/edit#gid=67583792>PoP Flag Checklist</a><br>
+If you have not yet, make a copy of this sheet by going to <c "#ff0000">File > Make a copy.</c><br>
+<c "#ff7700">It's a good idea to always hail everything and go through all NPC text, using the NPC provided word links.</c><br>
+<br>
+Guide Format:<br>
+<c "#00ff44">Green steps are NPC dialogue or zoning related,</c><br>
+<c "#ff3b3b">Red steps are boss kills/fights.</c><br>
+<c "#c073ff">Purple steps are not "required" flags. Only enough people need to do these to keep your raid moving forward.</c><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/KeyNPCs.txt">---- Key NPCs ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Figurine.txt">---- Intricate Wooden Figurine (Charm) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T1.txt">---- Tier 1 ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T2.txt">---- Tier 2 ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt">---- Tier 3 ----</a><br>
+<c "#0080ff">Torden, the Bastion of Thunder </c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=173> - <a href="file:///storyline/PoP_Progression_Guide/BoT.txt> Bot Story Window Boss Guide</a> - Zone Page</a> <a href="https://www.raspersrealm.com/Everquest/PoP/BoT_Events.html> - BoT Events Page</a> <a href="https://almarsguides.com/eq/quests/PoP/BoTTowerAccess/> - BoT Tower Access Guide</a><br>
+<c "#c073ff">[_] Optional - At least one person in the raid must be able to activate the stone to Agnarr's Chamber using the <a href="https://everquest.allakhazam.com/db/quest.html?quest=2333> - Symbol of Torden (key)</a>.</c><br>
+<c "#ff3b3b>[_] Complete the Agnarr the Storm Lord event then say "I will follow the path of the Fallen." to Karana.</c> <c "#fbff00">(You've received a character flag!)</c><br>
+Note: To zone out, say "Send me on my path." to Karana.<br>
+<br>
+<c "#0080ff">Halls of Honor (HoHa)</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=171> - <a href="file:///storyline/PoP_Progression_Guide/HoHa.txt> HoH Story Window Boss Guide</a> - Zone Page</a> <a href="https://www.raspersrealm.com/Everquest/PoP/HoH_Events.html> - HoH Events Page</a><br>
+<c "#ff3b3b>[_] Complete Trial 1 (North-east Trial - Dragon), then hail Trydan Faye to receive a flag emote:</c> <c "#fbff00">(An ethereal mist descends from the air and surrounds your very being.  Your body begins to emanate with the power of Trydan Faye.</c><br>
+<c "#ff3b3b>[_] Complete Trial 1 (North-west Trial - Save Villagers), then hail Rhaliq Trell to receive a flag emote:</c> <c "#fbff00">(An ethereal mist descends from the air and surrounds your very being.  Your body begins to emanate with the power of Rhaliq Trell.</c><br>
+<c "#ff3b3b>[_] Complete Trial 1 (South-east Trial - Save Single Villager), then hail Alekson Garn to receive a flag emote:</c> <c "#fbff00">(An ethereal mist descends from the air and surrounds your very being.  Your body begins to emanate with the power of Alekson Garn.</c><br>
+<br>
+<c "#0080ff">Temple of Marr (HoHb)</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=176> - <a href="file:///storyline/PoP_Progression_Guide/HoHb.txt> Temple of Marr Story Window Boss Guide</a> - Zone Page</a><br>
+<c "#ff3b3b>[_] Kill Lord Mithaniel Marr in Halls of Honor B and hail A Planar Projection. </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<br>
+<c "#0080ff">Drunder, Fortress of Zek (Plane of Tactics)</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=165> - <a href="file:///storyline/PoP_Progression_Guide/PoTactics.txt> PoTactics Story Window Boss Guide</a> - Zone Page</a> <a href="https://www.raspersrealm.com/Everquest/PoP/PoTact_Events.html> - PoTactics Events Page</a> <br>
+<c "#ff3b3b>[_] Kill Vallon Zek and hail A Planar Projection. </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Tallon Zek and hail A Planar Projection. </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Rallos Zek the Warlord and hail A Planar Projection. </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<br>
+<c "#0080ff">Solusek Ro's Tower</c> <a href="https://everquest.allakhazam.com/db/zones.html?zstrat=164> - <a href="file:///storyline/PoP_Progression_Guide/SolRo.txt> Sol RO Story Window Boss Guide</a> - Zone Page</a> <a href="https://www.raspersrealm.com/Everquest/PoP/SolRo_Events.html> - Sol Ro Events Page</a> <br>
+Kill all five mini-bosses and click through the stones after killing each one.  You'll also need all flags up to and including Rallos Zek (except Storms & Agnarr) to zone into Solusek Ro's chamber.<br>
+<c "#ff3b3b>[_] Kill Xuzl </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Arlyxir </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Jiva </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Rizlona </c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill The Protector of Dresolik</c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#ff3b3b>[_] Kill Solusek Ro and hail A Planar Projection.</c> <c "#fbff00">(You've received a character flag!)</c><br>
+<c "#00ff44>[_] Drop down into the lava pit in Solusek Ro's chamber to zone into Plane of Fire. </c><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Tier 4 (Elemental Planes) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T5.txt">---- Tier 5 (Plane of Time) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+<br>

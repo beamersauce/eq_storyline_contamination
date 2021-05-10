@@ -1,0 +1,37 @@
+PoP Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">Planes of Power Progression Guide</c><br>
+==============================================================<br>
+Made by: <c "#fc7703">Zuggle</c> <a href="https://sites.google.com/view/anzac-raids/home"><Anzac Raids></a>, Aradune<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Expansion Overview  < > < > < > < > < > </c><br>
+<a href="file:///storyline/storyPlanesofPowerProgression.txt"><c "#0080ff">---- What's New? ----</c></a><br>
+- Level cap increase to 65.<br>
+- New AA's for all classes.<br>
+- A new playable race, the Froglok (Legacy of Ykesha).<br>
+- Armor dyes: <a href="https://everquest.allakhazam.com/db/item.html?item=20152">Vial of Prismatic Dye</a><br>
+- Charm item, Intricate Wooden Figurine, which gets more powerful as you complete more PoP progression.<br>
+- The Plane of Knowledge, a safe zone and port hub, is now available.<br>
+- From level 61, Auto Activate is available.  Right click on a skill and select "auto activate" for kicks, bash, etc.<br>
+- Old world spells from PoK vendors(RGC).<br>
+- New ports, including Plane of Tranquility.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/NewZones.txt">---- New Zones ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Spells.txt">---- Spells in Planes of Power ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/LoY.txt">---- Spells in Legacy of Ykesha ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/QuestedArmor.txt">---- Ornate and Elemental Armor ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Quests.txt">---- Notable Quests----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Raid Strategies  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">---- Raid Boss & Event Info ----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt">---- PoP Flagging ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+
+<br>

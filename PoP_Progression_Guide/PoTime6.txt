@@ -1,0 +1,42 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 5 - <c "#ffffff">Plane of Time</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://everquest.allakhazam.com/db/zones.html?zstrat=178">---- Plane of Time B: Allakhazam (Click the Phase links at the top)----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime1.txt">Plane of Time: Phase 1 </a>(5 elemental events: Earth, Air, Water, Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime2.txt">Plane of Time: Phase 2 </a>(3 elemental events: Earth + Air, Water + Fire, Undead)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime3.txt">Plane of Time: Phase 3 </a>(8 waves of trash and named, two rock bosses)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime4.txt">Plane of Time: Phase 4 </a>(Saryrn, Terris Thule, Tallon Zek, Vallon Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime5.txt">Plane of Time: Phase 5 </a>(Trash, Bertoxxulous, Innoruuk, Cazic Thule, Rallos Zek)<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoTime.txt">Return to Plane of Time Main Page</a><br>
+<br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoTime_6.html">---- Quarm: Rasper's ----</a><br>
+<a href="https://everquest.allakhazam.com/db/quest.html?quest=4564">---- Quarm Event: Allakhazam ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=12388">---- Quarm: Allakhazam ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Quarm<br>
+Level: 80<br>
+HP: 1750,000+<br>
+Max Hit: 4000<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, slowable, flurries.  Every 25% Quarm loses a head, dispels himself (re-debuff!) and loses some AEs. Burn him from the start to make the fight easier.<br>
+Chain celestial regen, wood, and totems all need to be used to keep everyone up.<br>
+A time vortex mobs spawn periodically and must be mezzed.  Knights should try to quickly get aggro (without damaging them) so they don't hit melee (they proc a curable slow, noted below).<br>
+Time Warp (Unresistable): Range 200 single target 50% spell slow, 50% melee slow, lasts 60 seconds, 36 disease counters.  Cure this!<br>
+Buff all resists.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Balance of the Nameless (Self-buff): Cleanses Quarm of debuffs every 25%.<br>
+Plague Seism (-250 Magic): Range 400 PBAE 3000 damage.<br>
+Epoch Conviction (-300 Magic): Range 400 PBAE 100/tick DoT, 50/tick mana drain, -280 ATK, decrease spell dmg 20%, lasts 1 minute, 36 curse counters.<br>
+Glacier Blast (-250 Cold): Range 400 PBAE 3000 damage.<br>
+Glacier Breath (-300 Cold): Range 400 PBAE 100/tick DoT, 20% snare).<br>
+Infernal Flames (-250 Fire): Range 400 PBAE 3000 damage.<br>
+Plagued Earth (-300 Disease): Range 400 PBAE 500/tick DoT, 50/tick mana drain, lasts 1.5 minutes, 36 disease counters.<br>
+Venom Blast (-250 Poison): Range 400 PBAE 3000 damage.<br>
+Venomed Mist (-300 Poison): Range 400 PBAE 500/tick DoT, 50/tick mana drain, lasts 1.5 minutes, 36 poison counters.<br>
+<br>

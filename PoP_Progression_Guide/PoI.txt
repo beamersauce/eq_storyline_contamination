@@ -1,0 +1,41 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 1 - <c "#ffffff">Plane of Innovation</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoI_Overview.html">---- Plane of Innovation: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoI_Events.html">---- Plane of Innovation: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10234">---- Xanamech Nezmirthafen: Allakhazam ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10234">---- Manaetic Bahemoth: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/manaeticbehemonth/">---- Manaetic Bahemoth Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T1.txt">---- Story Window T1 Flagging Page ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+<a href="https://almarsguides.com/eq/quests/PoP/PlanarProgression/PlaneofInnovation/NitramsCollection/">---- Xanamech Nezmirthafen ----</a><br>
+Level: 66<br>
+HP: 265,000<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Electrical Short (-200 Magic): Range 150 targetted AE 300 damage with 1 second stun.<br>
+Steam Blast (-300 Fire): Range 250 PBAE 800 damage.<br>
+Oil Spray (Unresistable): Range 100 snare.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+<a href="https://www.eqprogression.com/manaeticbehemonth/">---- Manaetic Bahemoth ----</a><br>
+Level: 70<br>
+HP: 175,000<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Most classes should stay outside room to avoid PBAEs (However, fight is very short).<br>
+High resist/high DPS melee can go into room, along with tanks.<br>
+Tanks/melee should buff all resists.<br>
+Casters step into room and cast spells from just inside doors.  Can range most AEs from here.<br>
+Kill spiders (slowable) as they spawn.  Prevent them from reaching boss.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Biomelt IX (-150 Disease): Targeted AE 900 damage.<br>
+Deathfog IV (-150 Poison): PBAE 900 damage.<br>
+Gas Leak (-150 Fire): PBAE 900 damage.<br>
+Gyrosonic Disruption (-300 Magic): PBAE 600 damage.<br>
+Liquid Hydrokill (-150 Cold): PBAE 900/tick DoT with snare.<br>
+Mana Beam (Unresistable): Single target 2000 DD.<br>
+Wave of White Noise (Unresistable): Silence.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoI.txt">Back to top</a><br>

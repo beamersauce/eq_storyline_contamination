@@ -1,0 +1,75 @@
+PoP Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">Planes of Power Progression Guide</c><br>
+==============================================================<br>
+Made by: <c "#fc7703">Zuggle</c> <a href="https://sites.google.com/view/anzac-raids/home"><Anzac Raids></a>, Aradune<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Expansion Overview  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/WhatsNew.txt">---- What's New? ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/NewZones.txt">---- New Zones ----</a><br>
+<br>
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">---- Spells in Planes of Power ----</a><br>
+Lower level spells and ports can be purchased from the library in PoK (Use Find)</c><br>
+Level 61-65 spells are obtained randomly by turning in parchments or glyphed rune words to specific class NPCs.<br>
+<br>
+<c "#cfcf00">Bards:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10087>Minstrel Eoweril</a> in PoK (Bard Songs 1-25).<br>
+<c "#42b0f5">Beastlords:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10173>Primalist Saosith</a> in PoK (Beastlord Spells 1-25).<br>
+<c "#0080ff">Clerics:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10180>Vicar Ceraen</a> in PoK (Cleric Spells 1-25).<br>
+<c "#00f000">Druids:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10188>Wanderer Astobin</a> in PoK (Druid Spells 1-25).<br>
+<c "#f5f500">Enchanters:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10083>Illusionist Jerup</a> in PoK (Enchanter Spells 1-25).<br>
+<c "#8f4800">Magicians:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10155>Elementalist Somat</a> in PoK (Magician Spells 1-25).<br>
+<c "#7300a0">Necromancers:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10089>Heretic Drahur</a> in PoK (Necromancer Spells 1-25).<br>
+<c "#50a192">Paladins:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10168>Cavalier Waut</a> in PoK (Paladin Spells 1-25).<br>
+<c "#f07f00">Rangers:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10380>Pathfinder Viliken</a> in PoK (Ranger Spells 1-25).<br>
+<c "#7f0000">Shadowknights:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10094>Reaver Nydlil</a> in PoK (Shadowknight Spells 1-25).<br>
+<c "#c2b459">Shamans:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=13937>Mystic Abomin</a> in PoK (Shaman Spells 1-25).<br>
+<c "#c045ff">Wizards:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=10078>Channeler Olaemos</a> in PoK (Wizard Spells 1-25).<br>
+<br>
+<c "#0080ff"><a href="https://everquest.allakhazam.com/db/item.html?item=16329>Ethereal Parchments</a> (61 and 62 Spells) are dropped from Tier 1, Tier 2, and Tier 3 zones.</c><br>
+<c "#0080ff"><a href="https://everquest.allakhazam.com/db/item.html?item=16493>Spectral Parchments</a> (63 and 64 Spells) are dropped from some group content and also raid content and bosses.</c><br>
+<c "#0080ff"><a href="https://everquest.allakhazam.com/db/item.html?item=16562>Glyphed Rune Words</a> (65 Spells) are dropped from T2 or higher raid content and bosses.</c><br>
+<br>
+<c "#00f000">Druid</c> Portal Spells are from:<br>
+ - <a href="https://everquest.allakhazam.com/db/npc.html?id=10188>Wanderer Astobin</a> (Druid Spells 1-25) in the Plane of Knowledge Library - Main Floor, south side.<br>
+ - <a href="https://everquest.allakhazam.com/db/npc.html?id=10185>Wanderer Qenda</a> (Druid Spells 25-60) in the Plane of Knowledge Library - Main Floor, southwest side.<br>
+ - <a href="https://everquest.allakhazam.com/db/npc.html?id=7509>Ealerel Tidebringer</a> (Spell Merchant - Plane of Tranquility Ports) in Shadow Haven, in the Beastlord Guild area in the basement (use teleport pad).<br>
+<br>
+<c "#c045ff">Wizard</c> Portal Spells are from:<br>
+ - <a href="https://everquest.allakhazam.com/db/npc.html?id=10082>Channeler Lariland</a> (Wizard Spells 26-50) in the Plane of Knowledge Library - 2nd basement floor,  east side.<br>
+  - <a href="https://everquest.allakhazam.com/db/npc.html?id=10078>Channeler Olaemons (LoY Ports)</a> (Wizard Spells 1-25) in the Plane of Knowledge Library - 2nd basement floor,  east side.<br>
+   - <a href="https://everquest.allakhazam.com/db/npc.html?id=7804>Goesl Sealsonich</a> (Spell Merchant - Plane of Tranquility Ports) in Shadow Haven, in the library in the far northeast corner of the zone.<br>
+ <br>
+ <c "#0080ff">Melee Tomes</c><br>
+ <c "#e8bc0c">Warrior: Incite and Spirit of Rage:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=13820>Heldin Swordbreaker</a> (Warrior Tomes) in Plane of Knowledge library, 1st basement floor, southwest side.<br>
+ <c "#9e5a02">Monk: Phantom Echo:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=13961>Beorobin Amondson</a> (Monk Tomes) in Plane of Knowledge library, southeast side.<br>
+ <c "#dde02d">Rogue: Assassin's Strike and Deadly Precision:</c> <a href="https://everquest.allakhazam.com/db/npc.html?id=15759>Blade Darkblade</a> (Rogue Tomes) in Plane of Knowledge library, 2nd floor, south side.<br>
+ <br>
+ Imbue Spells are created by combining a <a href="https://eq.magelo.com/item/15895>Spell: Imbue Diamond</a>, a Raw Diamond, and a specific reagant inside a planar jewelry kit.  The combine is no fail and not class restricted.<br>
+ <br>
+Air - <a href="https://eq.magelo.com/item/29524>Air Mephit Blood</a><br>
+Disease - <a href="https://eq.magelo.com/item/29346>Bubonian Blood</a><br>
+Earth - <a href="https://eq.magelo.com/item/29523>Earth Mephit Blood</a><br>
+Fire - <a href="https://eq.magelo.com/item/29521>Fire Mephit Blood</a><br>
+Justice - <a href="https://eq.magelo.com/item/21954>Alkaline Etched Stone</a><br>
+Nightmare - <a href="https://eq.magelo.com/item/29525>Nightmare Mephit Blood</a><br>
+Storm - <a href="https://eq.magelo.com/item/29526>Storm Rider Blood</a><br>
+Torment - <a href="https://eq.magelo.com/item/26635>Putrescent Blood</a><br>
+Valor - <a href="https://eq.magelo.com/item/29956>Metallic Liquid</a><br>
+War - <a href="https://eq.magelo.com/item/29419>War Wraith Blood</a><br>
+Water - <a href="https://eq.magelo.com/item/29522>Water Mephit Blood</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/LoY.txt">---- Spells in Legacy of Ykesha ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/QuestedArmor.txt">---- Ornate and Elemental Armor ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Quests.txt">---- Notable Quests----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Raid Strategies  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">---- Raid Boss & Event Info ----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt">---- PoP Flagging ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+<br>

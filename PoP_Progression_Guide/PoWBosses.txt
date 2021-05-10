@@ -1,0 +1,68 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Water</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoW_Overview.html">---- Plane of Water: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/PoW_Events.html">---- Plane of Water: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=11095">---- Coirnav: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/plane-of-water-boss-guide/">---- Plane of Water Boss Guide(EQP) ----</a><br>
+<a href="https://www.eqprogression.com/coirnav-the-avatar-of-water-raid-guide/">---- Coirnav the Avatar of Water Raid Guide(EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoW.txt">Return to Plane of Water Main Page</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoWCoirnav.txt">Plane of Water: Coirnav Info</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Grioihin the Wise<br>
+Level: 73<br>
+HP: 650,000<br>
+Max Hit: 2000+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target rampage, flurries, slowable.<br>
+Buff cold resist.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Tidal Freeze (-350 Cold): PBAE 2000 DD + 5 second stun, 60 second recast.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Hydrotha<br>
+Level: 73<br>
+HP: 700,000<br>
+Max Hit: 2200+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target rampage, flurries, slowable.<br>
+Buff magic resist.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Engulfing Ink (-350 Magic): Single target 500/tick DoT, blind.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Krziik the Mighty<br>
+Level: 73<br>
+HP: 900,000<br>
+Max Hit: 2500+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target rampage, slowable.<br>
+No resists needed.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Battle Cry of Regrua (Unresistable): Single target 3000 damage, +20% movement speed.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Ofossaa the Enlightened<br>
+Level: 73<br>
+HP: 800,000<br>
+Max Hit: 2100+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Single target rampage, flurries, slowable.<br>
+Buff cold resist.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Mists of Enlightenment (-275 Cold resist): Range 250 PBAE 250/tick DoT, 100/tick mana drain, 20% slow, -450 AC, lasts 3 minutes, 18 curse counters.  60 second recast.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoWBosses.txt">Back to top</a><br>

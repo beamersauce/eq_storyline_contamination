@@ -1,0 +1,47 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt"><c "#0080ff">----Click here to go back to PoP Main Page----</c></a><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt"><c "#0080ff">----Click here to go back to PoP Flagging Page----</c></a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > PoP Progression External Website Links  < > < > < > < > < > </c><br>
+<a href="https://everquest.allakhazam.com/wiki/EQ:The_Planes_of_Power">Allakhazam</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/miscProgression.html">Raspers</a><br>
+<a href="https://everquest.fanra.info/wiki/The_Planes_of_Power_flagging_guide">Fanra</a><br>
+<a href="http://www.bonzz.com/planprog.htm">Bonzz</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Flagging  < > < > < > < > < > </c><br>
+This guide will follow this Google Sheets Flagging Guide: <a href="https://docs.google.com/spreadsheets/d/1-mTY2n2DHUaJr2xMLmewtLmNgsFRYJwZpcXfQPt4emw/edit#gid=67583792>PoP Flag Checklist</a><br>
+If you have not yet, make a copy of this sheet by going to <c "#ff0000">File > Make a copy.</c><br>
+<c "#ff7700">It's a good idea to always hail everything and go through all NPC text, using the NPC provided word links.</c><br>
+<br>
+Guide Format:<br>
+<c "#00ff44">Green steps are NPC dialogue or zoning related,</c><br>
+<c "#ff3b3b">Red steps are boss kills/fights.</c><br>
+<c "#c073ff">Purple steps are not "required" flags. Only enough people need to do these to keep your raid moving forward.</c><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt">----Key NPCs----</a><br>
+<br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10140">---- Seer Mal Nae`Shi (PoT) ----</a><br>
+The Seer can fix any flagging issues you may have if they get out of order.<br>
+<br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10635">---- Grand Librarian Maelin (PoK) ----</a><br>
+The Grand Librarian is located at the top of the library (elevator) and is part of the flagging process, mostly towards the later stages.<br>
+He should at least be done before and after killing the Zeks in Plane of Tactics, and also after killing Saryrn.<br>
+He may also help other times as well if you begin to run into flagging issues.  He cannot put your flags in order like the Seer can, but he is a common cause for flag issues.<br>
+<br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=12160">---- Gram Dunnar (PoK) ----</a><br>
+You should speak to Gram Dunnar every time you gain access to a new zone.  Say: "I have stories.".<br>  He will give you AA for your progression and upgrade your charm, the <a href="https://everquest.allakhazam.com/search.html?q=intricate+wooden+figurine">Intricate Wooden Figurine</a>.<br>
+
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/Figurine.txt">---- Intricate Wooden Figurine (Charm) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T1.txt">---- Tier 1 ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T2.txt">---- Tier 2 ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T3.txt">---- Tier 3 ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Tier 4 (Elemental Planes) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/T5.txt">---- Tier 5 (Plane of Time) ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">---- Zone Requirements ----</a><br>
+<br>

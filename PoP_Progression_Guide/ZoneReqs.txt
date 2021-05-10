@@ -1,0 +1,70 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt"><c "#0080ff">----Click here to go back to PoP Main Page----</c></a><br>
+<a href="file:///storyline/PoP_Progression_Guide/Flagging.txt"><c "#0080ff">----Click here to go back to PoP Flagging Page----</c></a><br>
+<br>
+This is a quick and dirty guide to zone access.<br>
+It gives a simplistic overview of what needs to completed to zone in, but does not include information about hails, zoning, etc.  For that, see the PoP Flagging page, linked above.<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Planes of Power Zone Requirements  < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 0 - <c "#ffffff">Level 1+</c> < > < > < > < > < > </c><br>
+
+<c "#00ff00">Plane of Knowledge</c><br>
+<c "#00ff00">Plane of Tranquility</c><br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 1 - <c "#ffffff">Level 46+</c> < > < > < > < > < > </c><br>
+<c "#0080ff">Plane of Disease</c><br>
+<c "#0080ff">Plane of Justice</c><br>
+<c "#0080ff">Plane of Innovation</c><br>
+<c "#0080ff">Plane of Nightmare</c><br>
+
+<c "#0080ff">  -Lair of Terris Thule (PoNb) - Raid zone</c> - Complete Hedge Event in PoN.<br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 2  < > < > < > < > < > </c><br>
+
+<c "#0080ff">Ruins of Lxanvom (Crypt of Decay)</c> - Kill Grummus in Plane of Disease.<br>
+<c "#0080ff">Plane of Torment</c> - Kill Terris Thule in Plane of Nightmare B.<br>
+<c "#0080ff">Plane of Storms</c> - Complete one trial in Plane of Justice.<br>
+<c "#0080ff">Plane of Valor</c> - Complete one trial in Plane of Justice.<br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 3  < > < > < > < > < > </c><br>
+
+<c "#0080ff">Torden, Bastion of Thunder (BoT)</c> - Complete <a href="https://everquest.allakhazam.com/db/quest.html?quest=2269> - Aiding Askr</a> in Plane of Storms.<br>
+<c "#0080ff">Halls of Honor</c> - Kill Aerin`Dar in the Plane of Valor. <br>
+<c "#0080ff">-Temple of Marr (HoHb)</c> - Complete the three trials in Halls of Honor A.<br>
+<c "#0080ff">Drunder, Fortress of Zek (Plane of Tactics)</c> - Kill Manaetic Bahemoth in Plane of Innovation.<br>
+<c "#0080ff">Solusek Ro's Tower</c> - Complete: Grummus, Terris Thule, Bertoxxulous, Keeper of Sorrows, Saryrn, the three HoH trials, Tallon Zek, Vallon Zek, and Mithaniel Marr.  Rallos Zek the Warlord is needed to zone into Solusek Ro's chamber.<br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 4  < > < > < > < > < > </c><br>
+
+<c "#0080ff">Doomfire, the Burning Lands (Plane of Fire)</c> - Defeat Solusek Ro.<br>
+<c "#0080ff">Eryslai, the Kingdom of Wind (Plane of Air)</c> - Defeat Rallos Zek the Warlord and Agnarr the Storm Lord.<br> 
+<c "#0080ff">Reef of Coirnav (Plane of Water)</c> - Defeat Rallos Zek the Warlord and Agnarr the Storm Lord.<br>
+<c "#0080ff">Vergarlson, the Earthen Badlands (Plane of Earth)</c> - Defeat Rallos Zek the Warlord and Agnarr the Storm Lord.<br>
+<c "#0080ff">-Ragrax, Stronghold of the Twelve (PoEb) - Raid Zone</c> - Complete Plane of Earth A.<br>
+
+<c "#fc7703">  < > < > < > < > < > Tier 5  < > < > < > < > < > </c><br>
+
+<c "#0080ff">Plane of Time A</c> - Complete the four elemental planes.<br>
+<c "#0080ff">Plane of Time B (Raid Zone, DZ only)</c><br>
+<br>
+<c "#fc7703">  < > < > < > < > < > Flagging Paths  < > < > < > < > < > </c><br>
+<c "#0080ff">To go straight to Air, Water, and Earth:</c><br>
+1. Complete one trial in Plane of Justice.<br>
+2. Complete Askr's quest in Plane of Storms for BoT access.<br>
+3. Defeat Agnarr the Storm Lord in BoT.<br>
+4. Defeat Manaetic Bahemoth in Plane of Innovation.<br>
+5. Defeat Tallon Zek, Vallon Zek, and Rallos Zek the Warlord in Plane of Tactics.<br>
+<br>
+<c "#0080ff">To go straight to Plane of Fire:</c><br>
+1. Complete one trial in Plane of Justice.<br>
+2. Defeat Grummus in Plane of Disease.<br>
+3. Defeat Manaetic Bahemoth in Plane of Innovation.<br>
+4. Complete the Hedge event in PoN and defeat Terris Thule in PoNB.<br>
+5. Defeat Bertoxxulous in Crypt of Decay.<br>
+6. Defeat the Keeper of Sorrows and Saryrn in Plane of Torment.<br>
+7. Defeat Aerin`Dar in Plane of Valor.<br>
+8. Complete the three trials in Halls of Honor A.<br>
+9. Defeat Lord Mithaniel Marr in Halls of Honor B.<br>
+10. Defeat Tallon Zek, Vallon Zek, and Rallos Zek the Warlord in Plane of Tactics.<br>
+11. Defeat the five minis and Solusek Ro in the Solusek Ro's Tower.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/ZoneReqs.txt">Back to top</a><br>

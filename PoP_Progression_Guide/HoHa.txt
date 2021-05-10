@@ -1,0 +1,46 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 3 - <c "#ffffff">Halls of Honor</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/HoH_Overview.html">---- Halls of Honor: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/HoH_Events.html">---- Halls of Honor: Events ----</a><br>
+<a href="https://www.eqprogression.com/halls-of-honor-trials-raid-guide/">---- Halls of Honor Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T3.txt">---- Story Window T3 Flagging Page ----</a><br>
+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+To gain access to the Temple of Marr (HoHb), you must complete the three raid trials in the basements of Halls of Honor.<br>
+<br>
+<c "#fc7703">  < > < > Trial 1: Trydan's Faye's Trial (Northeast)< > < > < > </c><br>
+Name: <a href="https://everquest.allakhazam.com/db/npc.html?id=10596">Rydda`Dar</a><br>
+Level: 75<br>
+HP: 050,000<br>
+Max Hit: 1800+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+When the event starts, a Custodian of Marr spawns.  When it dies, Rydda`Dar spawns.<br>
+Leashed, Single target ramp, slowable (disease), will despawn after one minute if not engaged.<br>
+Buff magic resist.<br>
+When Rydda`Dar dies, hail Trydan for your flag.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Screeching Bellow (-200 Magic): Range 20 PBAE 2500 damage, 700/tick DoT, .5 sec stun.<br>
+Crystal Roar (-200 Magic): Range 300 PBAE Fear, snare, -180 AC, 35% slow.<br>
+<br>
+<c "#fc7703">  < > < > Trial 2: Rhaliq Trell's Trial (Northwest) < > < > < > </c><br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+When the event starts, a Custodian of Marr spawns.  When it dies, about a dozen mobs spawn over the three rooms along with a few villagers.<br>
+If the mobs kill any villagers, the trial ends in failure.<br>
+Have kiters keep the mobs busy as the raid pulls them in one or two at a time.<br>
+Once everything is dead, hail Rhaliq for your flag.<br>
+<br>
+<c "#fc7703">  < > < > Trial 3: Alekson Garn's Trial (Southeast) < > < > < > </c><br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+When the event starts, a Custodian of Marr spawns.  When it dies, the event starts with 5-7 mobs spawning in each of the three rooms.<br>
+Kiters can keep the ones in the 2nd and 3rd busy while the raid kills off any in the first room.  You can keep the raid in room 1 the entire event.<br>
+In addition to the mobs are "virgins", if the mobs kill any of them the trial will fail, so be sure the kiters keep their distance.<br>
+An SK or Necro should peel mobs off from the kiter in room two until they are all dead, then kill the named.  Then the room 3 kiter should move to room 2 and kite there, and repeat the process, while the raid stays in room 1, killing mobs and named.<br>
+When all of the first room's mobs are dead, a boss, <a href="https://everquest.allakhazam.com/db/npc.html?id=14950">Advocent Joran</a> (150k HP, Max Hit: 1100+), spawns.  Kill the adds, and another boss spawns, <a href="https://everquest.allakhazam.com/db/npc.html?id=10945">Halgoz Rellinic</a> (175,000 HP, Max Hit: 1200+), with heavy single target rampage.<br>
+When Halgoz dies, clear the adds again, and <a href="https://everquest.allakhazam.com/db/npc.html?id=10917">Freegan Haun</a> (190,000 HP, Max Hit: 1200+), spawns.  Kill him for great justice.<br>
+Once the three named are dead, hail Alekson in the first room for your flag.<br>
+<br>

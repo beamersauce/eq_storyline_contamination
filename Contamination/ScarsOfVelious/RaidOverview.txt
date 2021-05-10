@@ -1,0 +1,5 @@
+<a href="file:///storyline/storyScarsOfVelious.txt">----Click here to go back to Scars of Velious Main Page----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<a href="file:///storyline/Contamination/ScarsOfVelious/KaelDrakkel.txt">Kael Drakkel</a><br>
+<br>

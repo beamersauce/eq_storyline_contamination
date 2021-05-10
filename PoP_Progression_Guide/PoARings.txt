@@ -1,0 +1,80 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 4 - <c "#ffffff">Plane of Air</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/SolRo_Overview.html">---- Plane of Air: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/SolRo_Events.html">---- Plain of Air: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=11399">---- Xegony: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/xegony-the-queen-of-air-strategy-guide/">---- Xegony the Queen of Air Raid Guide (EQP) ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T4.txt">---- Story Window T4 Flagging Page ----</a><br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoA.txt">Return to Plane of Air Main Page</a><br>
+<br>
+Each Avatar drops 5 pieces each needed for the key to Xegony's island.  So in one full clear, 5 keys can be made to port 5 groups.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Avatar of Dust<br>
+Level: 75<br>
+HP: 650,000<br>
+Max Hit: 2000+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, flurries, partially slowable.<br>
+Buff magic resist.<br>
+Complete the spider event to make Sigismond Windwalker become active, which then spawns the Avatar of Dust (stays up for 45 minutes).<br>
+15x An Erratic Arachnid (baby spiders with spin stun) instantly respawn when killed, so mezz, offtank, or kite.<br>
+Kill the other (medium sized) spiders.  They split into smaller spiders each time.  The last one is A Vorladien Archwalker, which makes Sigismond targetable.<br>
+Sigismond has 600,000 HP, max hit for around 2000, has a PBAE silence, and a single target 3500 DD.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Chain Lightning (Magic): Range 30 Targeted AE 500 damage, 500 mana drain.<br>
+Wave of White Noise (Unresistable): Range 100 PBAE silence.<br>
+Armor Break (Unresistable): Range 200 PBAE -270 AC.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Avatar of Mist<br>
+Level: 75<br>
+HP: 800,000<br>
+Max Hit: 2400+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, partially slowable, memblurs self.<br>
+Buff magic resist.<br>
+To spawn, clear Phoenix Island (4 waves), with the final wave being Melernil Faal`Armanna (PBAE Slow, AE Ramp, Flurry, Partially slowable, 2400 max hit).<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Tornado (-100 Magic): Single target 200/tick DoT with .5 second stun.<br>
+Stone Gale (Unresistable): Range 20 Targeted AE 1500 damage, 2 second stun.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Avatar of Smoke<br>
+Level: 75<br>
+HP: 800,000<br>
+Max Hit: 2000+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, flurry, partially slowable.<br>
+Buff magic resist.<br>
+To spawn, clear elemental island, which spawns An Elemental Masterpiece (1,000,000 HP, max hit 2300, single target rampage, flurry).  Upon death, spawns Avatar of Smoke.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Tornado (-100 Magic): Single target 200/tick DoT with .5 second stun.<br>
+Cycle (-150 Magic): Single target 200/tick DoT, 95% aggro dump, .5 second stun.<br>
+Hail Storm (Magic): Range 80 PBAE 400 damage, 1 second stun.<br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Avatar of Wind<br>
+Level: 75<br>
+HP: 750,000<br>
+Max Hit: 2500+<br>
+
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+AE rampage, flurry, partially slowable.<br>
+Buff magic resist.<br>
+To spawn, clear stormrider island (bugs).  Once all dead, spawns 5x Pherlondien Clawpike.  One of these is real (350,000 HP, max hit 2200, flurry, AE ramp, slowable).  Once dead the Avatar of Wind spawns.<br>
+
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Tornado (-100 Magic): Single target 200/tick DoT with .5 second stun.<br>
+Lure of the Storm (-250 Magic): Range 100 PBAE 800 damage, spinstun, cancel magic.<br>
+<br>
+<a href="file:///storyline/PoP_Progression_Guide/PoARings.txt">Back to top</a><br>

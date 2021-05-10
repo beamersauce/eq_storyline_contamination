@@ -1,0 +1,32 @@
+<a href="file:///storyline/storyPlanesofPowerProgression.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<c "#fc7703">  < > < > < > < > < > Tier 3 - <c "#ffffff">Torden, Bastion of Thunder</c> < > < > < > < > < > </c><br>
+<a href="file:///storyline/PoP_Progression_Guide/RaidOverview.txt">Return to Raid Strategies Page</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/BoT_Overview.html">---- Bastion of Thunder: Overview ----</a><br>
+<a href="https://www.raspersrealm.com/Everquest/PoP/BoT_Events.html">---- Bastion of Thunder: Events ----</a><br>
+<a href="https://everquest.allakhazam.com/db/npc.html?id=10520">---- Agnarr the Storm Lord: Allakhazam ----</a><br>
+<a href="https://www.eqprogression.com/agnarr-the-storm-lord-raid-guide/">---- Agnarr the Storm Lord Raid Guide (EQP) ----</a><br>
+<a href="https://almarsguides.com/eq/quests/PoP/PlanarProgression/BastionofThunder/TowerAccess/">---- Tower access quests ----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/T3.txt">---- Story Window T3 Flagging Page ----</a><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+Name: Agnarr the Storm Lord<br>
+Level: 75<br>
+HP: 1,100,000<br>
+Max Hit: 1200+<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+Slowable.<br>
+Buff magic resist.<br>
+There are three phases in this fight.  Fire Room, Lightning Room, and Agnarr's room.<br>
+In all three rooms, destroy the portals first to stop adds, then kill boss.<br>
+Agnarr spawns a new named mob every 25%.<br>
+<c "#0080ff">  < > < > Spells Info < > < > < > </c><br>
+Manastorm (Magic): Range 150 PBAE 600 DD, 200 mana drain.<br>
+Rage of the Rainkeeper (Unresistable): Range 50 PBAE 800 DD, 80/tick DoT, 7.5 sec spinstun.
+<br>
+<c "#0080ff">  < > < > Agnarr Named adds info (every 25%) < > < > < > </c><br>
+~100% Named 1: Jolur Sandstorm - 250k HP, Max Hit: 800+, Disease Resist.<br>
+~75% Named 2: Ekil Thundercall - 250k HP, Max Hit: 800+, Fire Immune.<br>
+~50% Named 3: Eljin Stormtide - 250k HP, Max Hit: 800+, Cold Immune.<br>
+~25% Named 4: Hibdin Cyclone - 250k HP, Max Hit: 800+, Disease Resist.<br>
