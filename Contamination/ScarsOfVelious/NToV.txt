@@ -5,16 +5,240 @@
 <c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
 <br>
 
-<c "#ff0000">  < > < > TODO < > < > < > </c><br>
+<c "#ff0000">  < > < > Aaryonar < > < > < > </c><br>
 Level: ??<br>
 HP: ??<br>
-Max Hit (Def): 800 (500)<br>
+Max Hit (Def): 900 (577)<br>
 <c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
 Slowable: yes<br>
 Rampage: -<br>
 Flurry: -<br>
+Resists Needed: Magic**<br>
+AE Type: DD/Mana Drain (20)<br>
+Baneable: yes<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Cekenar < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 675 (??)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Magic**<br>
+AE Type: DD/Mana Drain (??)<br>
+Baneable: -<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Dagarn The Destroyer < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 754 (504)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: yes<br>
+Flurry: -<br>
+Resists Needed: Fire<br>
+AE Type: DD<br>
+Baneable: -<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Eashen of the Sky < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 750 (449)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: -<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Cold / Fire<br>
+AE Type: DD<br>
+Baneable: -<br>
+CH Delay: 2<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Ikatair the Venom < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 750 (459)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: -<br>
+Rampage: -<br>
+Flurry: -<br>
 Resists Needed: -<br>
 AE Type: -<br>
+Baneable: -<br>
+CH Delay: 2<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Jorlleag < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): ??? (461)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Cold<br>
+AE Type: DD/Dispel<br>
+Baneable: -<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Lady Mirenilla < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 950 (599)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Magic**<br>
+AE Type: Silence/DoT (15)<br>
+Baneable: yes<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Lady Nevederia < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 650 (412)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Magic**<br>
+AE Type: SpinStun/DoT (15)<br>
+Baneable: yes<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Lord Feshlak < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 960 (580)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Cold / Fire<br>
+AE Type: DD<br>
+Baneable: yes<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Lord Koi'Doken < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 650 (434)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Cold**<br>
+AE Type: Stun/DD (??) (20)<br>
+Baneable: yes<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Lord Kreizenn < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 948 (559)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: -<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Fire<br>
+AE Type: DD<br>
+Baneable: yes<br>
+CH Delay: Instant<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Lord Vyemm < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 1200 (???)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: -<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Magic<br>
+AE Type: Gflux/DD<br>
+Baneable: yes<br>
+CH Delay: Instant<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Sevalak < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 950 (593)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Magic<br>
+AE Type: Gflux/DD<br>
+Baneable: -<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Vulak'Aerr < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): ??? (614)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: yes<br>
+Resists Needed: Disease**<br>
+AE Type: Slow/DD (??)<br>
+Baneable: yes<br>
+CH Delay: Instant (3)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Zlexak < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 750 (???)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Disease**<br>
+AE Type: Slow/DD (12)<br>
 Baneable: -<br>
 CH Delay: 2 (4)<br>
 <c "#0080ff">  < > < > Event Info < > < > < > </c><br>

@@ -5,10 +5,42 @@
 <c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
 <br>
 
-<c "#ff0000">  < > < > TODO < > < > < > </c><br>
+<c "#ff0000">  < > < > The Progenitor < > < > < > </c><br>
 Level: ??<br>
 HP: ??<br>
-Max Hit (Def): 800 (500)<br>
+Max Hit (Def): ?? (??)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: -<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: -<br>
+AE Type: -<br>
+Baneable: -<br>
+CH Delay: 3<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > The Master of the Guard < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): ?? (??)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: -<br>
+Rampage: -<br>
+Flurry: yes<br>
+Resists Needed: -<br>
+AE Type: -<br>
+Baneable: -<br>
+CH Delay: 3<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > The Final Arbiter < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): ?? (??)<br>
 <c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
 Slowable: yes<br>
 Rampage: -<br>
@@ -17,6 +49,70 @@ Resists Needed: -<br>
 AE Type: -<br>
 Baneable: -<br>
 CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Hraashna the Warder < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): ?? (??)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: yes<br>
+Flurry: -<br>
+Resists Needed: Fire**<br>
+AE Type: DoT/Snare (12)<br>
+Baneable: yes<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Nanzata the Warder < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): ?? (??)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Cold<br>
+AE Type: DD/Dispel<br>
+Baneable: yes<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Tukaarak the Warder < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): ?? (??)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Magic**<br>
+AE Type: Silence (12)<br>
+Baneable: yes<br>
+CH Delay: 2 (4)<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Ventani the Warder < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): ?? (??)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: -<br>
+Rampage: -<br>
+Flurry: -<br>
+Resists Needed: Cold / Magic**<br>
+AE Type: Silence (12) + Slow/DD<br>
+Baneable: yes<br>
+CH Delay: 2<br>
 <c "#0080ff">  < > < > Event Info < > < > < > </c><br>
 TODO<br>
 <br>
