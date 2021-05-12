@@ -1,15 +1,31 @@
 <a href="file:///storyline/storyPoP.txt">----Click here to go back to PoP Main Page----</a><br>
 <a href="file:///storyline/PoP/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
-<a href="file:///storyline/PoP/PoW.txt">----Click here to go back to PoW Main Page----</a><br>
+<a href="file:///storyline/PoP/PoA.txt">----Click here to go back to PoA Main Page----</a><br>
 <c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
 <br>
 <c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
 <br>
 
-<c "#ff0000">  < > < > Corinav < > < > < > </c><br>
+<c "#ff0000">  < > < > Baltaldor the Cursed < > < > < > </c><br>
 Level: ??<br>
 HP: ??<br>
-Max Hit (Def): 2100 (?)<br>
+Max Hit (Def): ? (?)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: ?<br>
+Rampage: ?<br>
+Flurry: ?<br>
+Resists Needed: Disease<br>
+AE Type: ?<br>
+Baneable: ?<br>
+CH Delay: ?<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Xegony < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 3000 (?)<br>
 <c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
 Slowable: yes<br>
 Rampage: yes+PBAE<br>
@@ -22,13 +38,13 @@ CH Delay: ?<br>
 TODO<br>
 <br>
 
-<c "#ff0000">  < > < > Ofossa the Enlightened < > < > < > </c><br>
+<c "#ff0000">  < > < > Avatar of Wind < > < > < > </c><br>
 Level: ??<br>
 HP: ??<br>
-Max Hit (Def): ? (?)<br>
+Max Hit (Def): 2600 (?)<br>
 <c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
 Slowable: yes<br>
-Rampage: no<br>
+Rampage: yes+PBAE<br>
 Flurry: ?<br>
 Resists Needed: ?<br>
 AE Type: ?<br>
@@ -38,13 +54,29 @@ CH Delay: ?<br>
 TODO<br>
 <br>
 
-<c "#ff0000">  < > < > Hydrothea < > < > < > </c><br>
+<c "#ff0000">  < > < > Avatar of Smoke < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 25000 (?)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: yes+PBAE<br>
+Flurry: ?<br>
+Resists Needed: ?<br>
+AE Type: ?<br>
+Baneable: ?<br>
+CH Delay: ?<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Avatar of Mist < > < > < > </c><br>
 Level: ??<br>
 HP: ??<br>
 Max Hit (Def): 2500 (?)<br>
 <c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
 Slowable: yes<br>
-Rampage: no<br>
+Rampage: yes+PBAE<br>
 Flurry: ?<br>
 Resists Needed: ?<br>
 AE Type: ?<br>
@@ -54,29 +86,13 @@ CH Delay: ?<br>
 TODO<br>
 <br>
 
-<c "#ff0000">  < > < > Krizzk the Mighty < > < > < > </c><br>
+<c "#ff0000">  < > < > Avatar of Dust < > < > < > </c><br>
 Level: ??<br>
 HP: ??<br>
-Max Hit (Def): 2700 (?)<br>
+Max Hit (Def): 2100 (?)<br>
 <c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
 Slowable: yes<br>
-Rampage: yes<br>
-Flurry: ?<br>
-Resists Needed: ?<br>
-AE Type: ?<br>
-Baneable: ?<br>
-CH Delay: ?<br>
-<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
-TODO<br>
-<br>
-
-<c "#ff0000">  < > < > Griohinion the Wise < > < > < > </c><br>
-Level: ??<br>
-HP: ??<br>
-Max Hit (Def): ? (?)<br>
-<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
-Slowable: yes<br>
-Rampage: no<br>
+Rampage: yes+PBAE<br>
 Flurry: ?<br>
 Resists Needed: ?<br>
 AE Type: ?<br>
