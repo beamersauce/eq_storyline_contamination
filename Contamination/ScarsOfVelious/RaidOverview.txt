@@ -1,7 +1,7 @@
 <a href="file:///storyline/storyScarsOfVelious.txt">----Click here to go back to Scars of Velious Main Page----</a><br>
 <br>
 <c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
-Content from: https://cdn.discordapp.com/attachments/841077661559422976/841090443126374420/2.png
+Content from: https://cdn.discordapp.com/attachments/841077661559422976/841090443126374420/2.png <br>
 <a href="file:///storyline/Contamination/ScarsOfVelious/KaelDrakkel.txt">Kael Drakkel</a><br>
 <a href="file:///storyline/Contamination/ScarsOfVelious/IcewellKeep.txt">Icewell Keep</a><br>
 <a href="file:///storyline/Contamination/ScarsOfVelious/WakeningLands.txt">Wakening Lands</a><br>
@@ -15,4 +15,3 @@ Content from: https://cdn.discordapp.com/attachments/841077661559422976/84109044
 <a href="file:///storyline/Contamination/ScarsOfVelious/WToV.txt">West Temple of Veeshan</a><br>
 <a href="file:///storyline/Contamination/ScarsOfVelious/NToV.txt">North Temple of Veeshan</a><br>
 <a href="file:///storyline/Contamination/ScarsOfVelious/SleepersTomb.txt">Sleeper's Tomb</a><br>
-<br>

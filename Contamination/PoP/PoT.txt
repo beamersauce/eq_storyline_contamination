@@ -1,0 +1,39 @@
+<a href="file:///storyline/storyPoP.txt">----Click here to go back to PoP Main Page----</a><br>
+<a href="file:///storyline/PoP/RaidOverview.txt">----Click here to go back to PoP Zone/Boss Main Page----</a><br>
+<a href="file:///storyline/PoP_Progression_Guide/PoT.txt">----Click here to go back to PoT Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+<br>
+
+<c "#ff0000">  < > < > Tallon Zek < > < > < > </c><br>
+Level: ??<br>
+HP: 550,000<br>
+Max Hit (Def): 914 (?)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: -<br>
+Rampage: -<br>
+Flurry: ?<br>
+Resists Needed: all<br>
+AE Type: Dispell, Decrease Resist, DD, Snare/Slow, Agro Dump+Dot+-AC<br>
+Baneable: ?<br>
+CH Delay: Fast Heals<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>
+
+<c "#ff0000">  < > < > Vallon Zek < > < > < > </c><br>
+Level: ??<br>
+HP: 550,000<br>
+Max Hit (Def): ? (?)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: -<br>
+Flurry: ?<br>
+Resists Needed: -<br>
+AE Type: Increase Agro+DoT+-AC<br>
+Baneable: ?<br>
+CH Delay: ?<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>

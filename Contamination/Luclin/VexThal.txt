@@ -1,0 +1,22 @@
+<a href="file:///storyline/storyLuclin.txt">----Click here to go back to Scars of Velious Main Page----</a><br>
+<a href="file:///storyline/Contamination/Luclin/RaidOverview.txt">----Click here to go back to SoV Zone/Boss Main Page----</a><br>
+<c "#0080ff">  < > < > < > < > < > Raids < > < > < > < > < > </c><br>
+<br>
+<c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
+<br>
+
+<c "#ff0000">  < > < > Aten Ha Ra < > < > < > </c><br>
+Level: ??<br>
+HP: ??<br>
+Max Hit (Def): 1600 (?)<br>
+<c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
+Slowable: yes<br>
+Rampage: yes<br>
+Flurry: ?<br>
+Resists Needed: ?<br>
+AE Type: ?<br>
+Baneable: ?<br>
+CH Delay: ?<br>
+<c "#0080ff">  < > < > Event Info < > < > < > </c><br>
+TODO<br>
+<br>

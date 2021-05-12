@@ -6,15 +6,15 @@
 <c "#fc7703">  < > < > Boss Info < > < > < > </c><br>
 <br>
 
-<c "#ff0000">  < > < > Aten Ha Ra < > < > < > </c><br>
+<c "#ff0000">  < > < > Baltaldor the Cursed < > < > < > </c><br>
 Level: ??<br>
 HP: ??<br>
-Max Hit (Def): 1600 (?)<br>
+Max Hit (Def): ? (?)<br>
 <c "#0080ff">  < > < > Meta Info < > < > < > </c><br>
-Slowable: yes<br>
-Rampage: yes<br>
+Slowable: ?<br>
+Rampage: ?<br>
 Flurry: ?<br>
-Resists Needed: ?<br>
+Resists Needed: Disease<br>
 AE Type: ?<br>
 Baneable: ?<br>
 CH Delay: ?<br>
